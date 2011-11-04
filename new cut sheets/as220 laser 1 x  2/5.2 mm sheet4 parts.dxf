@@ -485,19 +485,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2455870.608296296
+2455870.696974919
   9
 $TDUCREATE
  40
-2455870.774962963
+2455870.863641586
   9
 $TDUPDATE
  40
-2455870.60829684
+2455870.696976366
   9
 $TDUUPDATE
  40
-2455870.774963507
+2455870.863643032
   9
 $TDINDWG
  40
@@ -545,7 +545,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-8B58
+8B54
   9
 $SURFTAB1
  70
@@ -925,7 +925,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{2EFD44FE-0E5A-4567-8FFF-D837678F214B}
+{F9F3367C-9A5B-4BAE-91DB-E9191035877B}
   9
 $VERSIONGUID
   2
@@ -2067,7 +2067,7 @@ LAYER
 100
 AcDbSymbolTable
  70
-     9
+     5
   0
 LAYER
   5
@@ -2131,58 +2131,6 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-REFERANCE_LINES
- 70
-     0
- 62
-     2
-420
- 16776960
-  6
-Continuous
-370
-    -3
-390
-8AF7
-347
-8B25
-  0
-LAYER
-  5
-8B50
-330
-8AEA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-GRAPHIX
- 70
-     0
- 62
-     7
-420
- 16777215
-  6
-Continuous
-370
-    -3
-390
-8AF7
-347
-8B25
-  0
-LAYER
-  5
-8B51
-330
-8AEA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
 TEXT
  70
      0
@@ -2201,7 +2149,7 @@ Continuous
   0
 LAYER
   5
-8B52
+8B50
 330
 8AEA
 100
@@ -2227,7 +2175,7 @@ Continuous
   0
 LAYER
   5
-8B53
+8B51
 330
 8AEA
 100
@@ -2242,58 +2190,6 @@ CUTS
      1
 420
  16711680
-  6
-Continuous
-370
-    -3
-390
-8AF7
-347
-8B25
-  0
-LAYER
-  5
-8B54
-330
-8AEA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-ORIGIONAL_PARTS_THAT_WERE_
- 70
-     0
- 62
-     6
-420
- 16711935
-  6
-Continuous
-370
-    -3
-390
-8AF7
-347
-8B25
-  0
-LAYER
-  5
-8B55
-330
-8AEA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-CHANGED_PARTS
- 70
-     0
- 62
-     3
-420
-    65280
   6
 Continuous
 370
@@ -2677,36 +2573,6 @@ SECTION
   2
 ENTITIES
   0
-LWPOLYLINE
-  5
-8108
-330
-8B06
-100
-AcDbEntity
-  8
-CUTS
- 62
-     1
-420
- 16711680
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
--784.0745477090159
- 20
-37.50335615160088
- 10
--785.3611289590159
- 20
-36.85424490160096
-  0
 LINE
   5
 815B
@@ -2859,11 +2725,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -2892,6 +2760,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -2980,6 +2850,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -3068,6 +2940,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -3156,6 +3030,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -3239,7 +3115,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -3263,7 +3145,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -3287,11 +3175,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -3317,11 +3205,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -3347,11 +3235,11 @@ SPLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbSpline
 210
@@ -3435,11 +3323,11 @@ SPLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbSpline
 210
@@ -3523,11 +3411,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -3557,11 +3445,11 @@ SPLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbSpline
 210
@@ -3645,11 +3533,11 @@ SPLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbSpline
 210
@@ -3733,11 +3621,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -3767,11 +3655,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -3797,11 +3685,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -3835,11 +3723,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -3865,11 +3753,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -3903,11 +3791,11 @@ SPLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbSpline
 210
@@ -3991,11 +3879,11 @@ SPLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbSpline
 210
@@ -4079,11 +3967,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -4109,11 +3997,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -4147,11 +4035,11 @@ SPLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbSpline
 210
@@ -4235,11 +4123,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -4265,11 +4153,11 @@ SPLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbSpline
 210
@@ -4353,11 +4241,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -4383,11 +4271,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -4422,6 +4310,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -5624,6 +5514,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -5712,6 +5604,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -5800,6 +5694,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -5888,6 +5784,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -5976,6 +5874,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -6025,11 +5925,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -6055,11 +5955,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -6085,11 +5985,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -6119,11 +6019,11 @@ SPLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbSpline
 210
@@ -6207,11 +6107,11 @@ SPLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbSpline
 210
@@ -6295,11 +6195,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -6325,11 +6225,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CUTS
+TEXT
  62
-     1
+     5
 420
- 16711680
+      255
 100
 AcDbPolyline
  90
@@ -6355,11 +6255,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -6443,11 +6345,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -6531,11 +6435,13 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -6585,11 +6491,13 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -6619,11 +6527,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -6707,11 +6617,13 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -6757,11 +6669,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -6845,11 +6759,13 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -6875,11 +6791,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -6963,11 +6881,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -7051,11 +6971,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -7139,11 +7061,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -7227,11 +7151,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -7315,11 +7241,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -7403,11 +7331,13 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -7437,11 +7367,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -7525,11 +7457,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -7613,11 +7547,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -7701,11 +7637,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -7789,11 +7727,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -7877,11 +7817,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -7965,11 +7907,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -8053,11 +7997,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -8141,11 +8087,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -8229,11 +8177,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -8317,11 +8267,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -8405,11 +8357,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -8493,11 +8447,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -8581,11 +8537,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -8669,11 +8627,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -8757,11 +8717,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -8845,11 +8807,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -8933,11 +8897,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9021,11 +8987,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9109,11 +9077,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9197,11 +9167,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9285,11 +9257,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9373,11 +9347,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9461,11 +9437,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9549,11 +9527,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9637,11 +9617,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9725,11 +9707,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9813,11 +9797,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9901,11 +9887,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -9989,11 +9977,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -10077,11 +10067,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -10165,11 +10157,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -10253,11 +10247,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -10341,11 +10337,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -10429,11 +10427,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -10517,11 +10517,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -12383,11 +12385,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -12411,11 +12415,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -12499,11 +12505,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -12587,11 +12595,13 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -12645,11 +12655,13 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -12679,11 +12691,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -12767,11 +12781,13 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -12817,11 +12833,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -12905,11 +12923,13 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -12935,11 +12955,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -13023,11 +13045,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -13111,11 +13135,13 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -13145,11 +13171,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -13233,11 +13261,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -13321,11 +13351,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -13409,11 +13441,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -13497,11 +13531,13 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -13535,11 +13571,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -13623,11 +13661,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -13711,11 +13751,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -13799,11 +13841,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -13887,11 +13931,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -13975,11 +14021,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -14063,11 +14111,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -14151,11 +14201,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -14239,11 +14291,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -14327,11 +14381,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -14415,11 +14471,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -14503,11 +14561,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -14591,11 +14651,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -14679,11 +14741,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -14767,11 +14831,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -14855,11 +14921,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -14943,11 +15011,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15031,11 +15101,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15119,11 +15191,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15207,11 +15281,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15295,11 +15371,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15383,11 +15461,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15471,11 +15551,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15559,11 +15641,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15647,11 +15731,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15735,11 +15821,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15823,11 +15911,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15911,11 +16001,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -15999,11 +16091,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -16087,11 +16181,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -16175,11 +16271,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -16263,11 +16361,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -16351,11 +16451,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -16439,11 +16541,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -16527,11 +16631,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -16615,11 +16721,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -17424,6 +17532,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -17600,6 +17710,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -17718,6 +17830,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -17844,6 +17958,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -17878,6 +17994,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -17966,6 +18084,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -18012,6 +18132,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -18100,6 +18222,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -18130,6 +18254,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -18218,6 +18344,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -18268,6 +18396,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -18356,6 +18486,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -18375,208 +18507,6 @@ AcDbPolyline
   0
 SPLINE
   5
-8228
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbSpline
-210
-0.0
-220
-0.0
-230
-1.0
- 70
-     8
- 71
-     3
- 72
-     8
- 73
-     4
- 74
-     0
- 42
-0.000000001
- 43
-0.001
- 12
-1.0
- 22
-0.0
- 32
-0.0
- 13
-1.0
- 23
-0.0
- 33
-0.0
- 40
-0.0
- 40
-0.0
- 40
-0.0
- 40
-0.0
- 40
-1.0
- 40
-1.0
- 40
-1.0
- 40
-1.0
- 10
--43.57353790666389
- 20
--241.0521966686985
- 30
-0.0
- 10
--40.25954290666391
- 20
--241.0617216686986
- 30
-0.0
- 10
--37.56608540666389
- 20
--238.3827279186986
- 30
-0.0
- 10
--37.55726540666387
- 20
--235.0687329186986
- 30
-0.0
-  0
-LWPOLYLINE
-  5
-8229
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbPolyline
- 90
-       23
- 70
-     0
- 43
-0.0
- 10
--129.5024429066639
- 20
--231.3201166686985
- 10
--87.48026040666389
- 20
--231.3201166686985
- 10
--82.56430165666382
- 20
--239.4474104186985
- 10
--75.03108540666392
- 20
--240.9678829186986
- 10
--73.98157165666385
- 20
--240.9714104186985
- 10
--73.97098790666394
- 20
--237.1049666686986
- 10
--75.00427415666388
- 20
--237.1007329186985
- 10
--75.00427415666388
- 20
--231.2499141686986
- 10
--75.00427415666388
- 20
--231.2499141686986
- 10
--71.14876540666387
- 20
--231.2636716686986
- 10
--71.13042165666377
- 20
--221.3142804186985
- 10
--69.06067415666382
- 20
--221.3199241686985
- 10
--69.06067415666382
- 20
--221.3199241686985
- 10
--64.40047915666378
- 20
--221.3326241686985
- 10
--64.40047915666378
- 20
--221.3326241686985
- 10
--62.33073165666394
- 20
--221.3386216686986
- 10
--62.34907665666378
- 20
--231.2876604186986
- 10
--58.52143790666378
- 20
--231.3014191686985
- 10
--58.52143790666378
- 20
--231.2978916686986
- 10
--58.52143790666378
- 20
--237.1458891686985
- 10
--59.57059915666377
- 20
--237.1413029186985
- 10
--59.58118165666394
- 20
--241.0077466686986
- 10
--43.57353790666389
- 20
--241.0521966686985
-  0
-SPLINE
-  5
 822A
 330
 8B06
@@ -18588,6 +18518,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -18676,6 +18608,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -18706,6 +18640,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -18794,6 +18730,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -18824,6 +18762,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -18912,6 +18852,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -18942,6 +18884,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -19030,6 +18974,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -19118,6 +19064,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -19206,6 +19154,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -19294,6 +19244,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -19324,6 +19276,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -19412,6 +19366,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -19500,6 +19456,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -19530,6 +19488,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -19618,6 +19578,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -19706,6 +19668,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -19794,6 +19758,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -19882,6 +19848,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -19916,6 +19884,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -20004,6 +19974,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -20092,6 +20064,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -20180,6 +20154,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -20268,6 +20244,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -20356,6 +20334,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -20444,6 +20424,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -20532,6 +20514,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -20620,6 +20604,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -20650,6 +20636,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -20738,6 +20726,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -20826,6 +20816,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -20860,6 +20852,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -20948,6 +20942,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -21036,6 +21032,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -21066,6 +21064,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -21154,6 +21154,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -21242,6 +21244,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -21276,6 +21280,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -21364,6 +21370,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -21452,6 +21460,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -21482,6 +21492,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -21570,6 +21582,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -21658,6 +21672,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -21692,6 +21708,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -21780,6 +21798,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -21868,6 +21888,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -21898,6 +21920,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -21932,6 +21956,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -22020,6 +22046,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -22108,6 +22136,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -22154,6 +22184,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -22242,6 +22274,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -22272,6 +22306,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -22360,6 +22396,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -22410,6 +22448,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -22498,6 +22538,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -22517,208 +22559,6 @@ AcDbPolyline
   0
 SPLINE
   5
-8262
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbSpline
-210
-0.0
-220
-0.0
-230
-1.0
- 70
-     8
- 71
-     3
- 72
-     8
- 73
-     4
- 74
-     0
- 42
-0.000000001
- 43
-0.001
- 12
-1.0
- 22
-0.0
- 32
-0.0
- 13
-1.0
- 23
-0.0
- 33
-0.0
- 40
-0.0
- 40
-0.0
- 40
-0.0
- 40
-0.0
- 40
-1.0
- 40
-1.0
- 40
-1.0
- 40
-1.0
- 10
--244.4392066566639
- 20
--241.0521966686985
- 30
-0.0
- 10
--247.7535541566639
- 20
--241.0617216686986
- 30
-0.0
- 10
--250.4466604066639
- 20
--238.3827279186986
- 30
-0.0
- 10
--250.4558316566638
- 20
--235.0687329186986
- 30
-0.0
-  0
-LWPOLYLINE
-  5
-8263
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbPolyline
- 90
-       23
- 70
-     0
- 43
-0.0
- 10
--158.5106541566638
- 20
--231.3201166686985
- 10
--200.5324854066638
- 20
--231.3201166686985
- 10
--205.4487966566638
- 20
--239.4474104186985
- 10
--212.9816604066639
- 20
--240.9678829186986
- 10
--214.0311741566638
- 20
--240.9714104186985
- 10
--214.0421104066639
- 20
--237.1049666686986
- 10
--213.0088241566639
- 20
--237.1007329186985
- 10
--213.0088241566639
- 20
--231.2499141686986
- 10
--213.0088241566639
- 20
--231.2499141686986
- 10
--216.8639791566638
- 20
--231.2636716686986
- 10
--216.8826766566639
- 20
--221.3142804186985
- 10
--218.9524241566638
- 20
--221.3199241686985
- 10
--218.9524241566638
- 20
--221.3199241686985
- 10
--223.6122654066639
- 20
--221.3326241686985
- 10
--223.6122654066639
- 20
--221.3326241686985
- 10
--225.6820129066639
- 20
--221.3386216686986
- 10
--225.6640216566639
- 20
--231.2876604186986
- 10
--229.4916604066638
- 20
--231.3014191686985
- 10
--229.4916604066638
- 20
--231.2978916686986
- 10
--229.4916604066638
- 20
--237.1458891686985
- 10
--228.442499156664
- 20
--237.1413029186985
- 10
--228.431915406664
- 20
--241.0077466686986
- 10
--244.4392066566639
- 20
--241.0521966686985
-  0
-SPLINE
-  5
 8264
 330
 8B06
@@ -22730,6 +22570,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -22818,6 +22660,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -22848,6 +22692,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -22936,6 +22782,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -22966,6 +22814,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -23054,6 +22904,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -23084,6 +22936,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -23172,6 +23026,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -23260,6 +23116,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -23348,6 +23206,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -23436,6 +23296,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -23524,6 +23386,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -23612,6 +23476,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -23642,6 +23508,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -23730,6 +23598,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -23818,6 +23688,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -23906,6 +23778,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -23994,6 +23868,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -24082,6 +23958,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -24170,6 +24048,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -24258,6 +24138,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -24346,6 +24228,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -24376,6 +24260,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -24410,6 +24296,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -24498,6 +24386,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -24586,6 +24476,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -24624,6 +24516,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -24712,6 +24606,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -24800,6 +24696,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -24888,6 +24786,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -24976,6 +24876,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -25010,6 +24912,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -25098,6 +25002,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -25186,6 +25092,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -25274,6 +25182,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -25362,6 +25272,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -25450,6 +25362,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -25538,6 +25452,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -25626,6 +25542,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -25660,6 +25578,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -25748,6 +25668,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -25836,6 +25758,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -25924,6 +25848,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -26012,6 +25938,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -26100,6 +26028,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -26188,6 +26118,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -26276,6 +26208,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -26364,6 +26298,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -26452,6 +26388,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -26482,6 +26420,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -26570,6 +26510,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -26658,6 +26600,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -26784,6 +26728,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -26902,6 +26848,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -27024,6 +26972,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -27200,6 +27150,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -27322,6 +27274,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -27440,6 +27394,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -27562,6 +27518,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -27680,6 +27638,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -27856,6 +27816,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -28032,6 +27994,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -28208,6 +28172,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -28326,6 +28292,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -28452,6 +28420,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -28578,6 +28548,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -28642,6 +28614,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -28818,6 +28792,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -28994,6 +28970,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -29058,6 +29036,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -29234,6 +29214,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -29410,6 +29392,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -29478,6 +29462,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -29596,6 +29582,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -29714,6 +29702,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -29774,6 +29764,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -29892,6 +29884,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -30018,6 +30012,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -30082,6 +30078,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -30208,6 +30206,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -30326,6 +30326,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -30444,6 +30446,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -30524,6 +30528,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -32059,7 +32065,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -33950,6 +33962,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -34000,6 +34014,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -34576,6 +34592,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -34664,6 +34682,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -34698,6 +34718,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -34736,6 +34758,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -34824,6 +34848,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -34912,6 +34938,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -35000,6 +35028,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -35088,6 +35118,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -35122,6 +35154,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -35210,6 +35244,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -35298,6 +35334,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -35386,6 +35424,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -35474,6 +35514,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -35562,6 +35604,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -35650,6 +35694,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -35738,6 +35784,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -35826,6 +35874,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -35914,6 +35964,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -36002,6 +36054,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -36090,6 +36144,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -36173,11 +36229,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36201,11 +36259,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36229,11 +36289,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36257,11 +36319,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36285,11 +36349,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36313,11 +36379,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36341,11 +36409,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36369,11 +36439,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36397,11 +36469,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36425,11 +36499,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36453,11 +36529,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36481,11 +36559,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36509,11 +36589,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36537,11 +36619,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36565,11 +36649,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36593,11 +36679,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36621,11 +36709,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36649,11 +36739,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36677,11 +36769,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36705,11 +36799,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36733,11 +36829,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36761,11 +36859,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36789,11 +36889,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36817,11 +36919,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36845,11 +36949,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36873,11 +36979,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36901,11 +37009,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36929,11 +37039,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36957,11 +37069,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -36985,11 +37099,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37013,11 +37129,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37041,11 +37159,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37069,11 +37189,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37097,11 +37219,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37125,11 +37249,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37153,11 +37279,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37181,11 +37309,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37209,11 +37339,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37237,11 +37369,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37265,11 +37399,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37293,11 +37429,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37321,11 +37459,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37349,11 +37489,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37377,11 +37519,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37405,11 +37549,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37433,11 +37579,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37461,11 +37609,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37489,11 +37639,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37517,11 +37669,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37545,11 +37699,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37573,11 +37729,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37601,11 +37759,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37629,11 +37789,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37657,11 +37819,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37685,11 +37849,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37713,11 +37879,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37741,11 +37909,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37769,11 +37939,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37802,6 +37974,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -37885,11 +38059,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -37918,6 +38094,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -38001,11 +38179,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -38034,6 +38214,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -38117,11 +38299,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -38352,6 +38536,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -38435,11 +38621,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -38586,6 +38774,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -38669,11 +38859,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -38702,6 +38894,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -38785,11 +38979,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -38818,6 +39014,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -39661,190 +39859,6 @@ AcDbPolyline
  20
 -253.4053610702711
   0
-LWPOLYLINE
-  5
-8878
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbPolyline
- 90
-        6
- 70
-     0
- 43
-0.0
- 10
--521.1953788200849
- 20
--204.929108570271
- 10
--516.405715070085
- 20
--204.929108570271
- 10
--516.405715070085
- 20
--211.329203570271
- 10
--521.1953788200849
- 20
--211.329203570271
- 10
--521.1953788200849
- 20
--204.929108570271
- 10
--521.1953788200849
- 20
--204.929108570271
-  0
-LWPOLYLINE
-  5
-8879
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbPolyline
- 90
-        6
- 70
-     0
- 43
-0.0
- 10
--493.5044400700849
- 20
--180.419519820271
- 10
--488.714776320085
- 20
--180.419519820271
- 10
--488.714776320085
- 20
--186.819967320271
- 10
--493.5044400700849
- 20
--186.819967320271
- 10
--493.5044400700849
- 20
--180.419519820271
- 10
--493.5044400700849
- 20
--180.419519820271
-  0
-LWPOLYLINE
-  5
-887A
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbPolyline
- 90
-        6
- 70
-     0
- 43
-0.0
- 10
--521.1953788200849
- 20
--180.419519820271
- 10
--516.405715070085
- 20
--180.419519820271
- 10
--516.405715070085
- 20
--186.819967320271
- 10
--521.1953788200849
- 20
--186.819967320271
- 10
--521.1953788200849
- 20
--180.419519820271
- 10
--521.1953788200849
- 20
--180.419519820271
-  0
-LWPOLYLINE
-  5
-887B
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbPolyline
- 90
-        6
- 70
-     0
- 43
-0.0
- 10
--493.5044400700849
- 20
--204.929108570271
- 10
--488.714776320085
- 20
--204.929108570271
- 10
--488.714776320085
- 20
--211.329203570271
- 10
--493.5044400700849
- 20
--211.329203570271
- 10
--493.5044400700849
- 20
--204.929108570271
- 10
--493.5044400700849
- 20
--204.929108570271
-  0
 SPLINE
   5
 887C
@@ -39858,6 +39872,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -39946,6 +39962,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -40200,6 +40218,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -40288,6 +40308,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -40376,6 +40398,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -40422,6 +40446,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -40510,6 +40536,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -40556,6 +40584,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -40644,6 +40674,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -40678,6 +40710,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -40766,6 +40800,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -40796,6 +40832,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -40884,6 +40922,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -40918,6 +40958,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -40981,7 +41023,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -41010,6 +41058,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -41123,7 +41173,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -41152,6 +41208,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -41265,7 +41323,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -41294,6 +41358,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -41411,7 +41477,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -41499,7 +41571,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -41583,7 +41661,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -41675,7 +41759,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -41759,7 +41849,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -41901,7 +41997,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -42047,7 +42149,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -42076,6 +42184,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -42247,7 +42357,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -42276,6 +42392,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -42609,7 +42727,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -42638,6 +42762,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -42759,7 +42885,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -42788,6 +42920,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -42851,7 +42985,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -42880,6 +43020,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -42993,7 +43135,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -43022,6 +43170,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -43135,7 +43285,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -43164,6 +43320,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -43335,7 +43493,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -43364,6 +43528,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -43423,7 +43589,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -43452,6 +43624,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -43623,7 +43797,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -43652,6 +43832,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -43769,7 +43951,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -43798,6 +43986,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -43915,7 +44105,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -43944,6 +44140,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -44057,7 +44255,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -44086,6 +44290,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -44165,7 +44371,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -44194,6 +44406,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -44307,7 +44521,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -44336,6 +44556,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -44546,6 +44768,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -51500,6 +51724,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -51584,6 +51810,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -60231,11 +60459,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -60259,11 +60489,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -60287,11 +60519,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -60315,11 +60549,13 @@ CIRCLE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbCircle
  10
@@ -60339,11 +60575,13 @@ ARC
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbCircle
  10
@@ -60369,11 +60607,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -60397,11 +60637,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -60430,6 +60672,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -60518,6 +60762,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -60552,6 +60798,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -60590,6 +60838,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -60678,6 +60928,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -60766,6 +61018,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -60854,6 +61108,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -60942,6 +61198,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -60976,6 +61234,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -61064,6 +61324,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -61152,6 +61414,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -61240,6 +61504,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -61328,6 +61594,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -61416,6 +61684,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -61504,6 +61774,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -61592,6 +61864,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -61680,6 +61954,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -61768,6 +62044,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -61856,6 +62134,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -61944,6 +62224,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -62027,11 +62309,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62055,11 +62339,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62083,11 +62369,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62111,11 +62399,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62139,11 +62429,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62167,11 +62459,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62195,11 +62489,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62223,11 +62519,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62251,11 +62549,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62279,11 +62579,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62307,11 +62609,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62335,11 +62639,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62363,11 +62669,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62391,11 +62699,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62419,11 +62729,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62447,11 +62759,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62475,11 +62789,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62503,11 +62819,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62531,11 +62849,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62559,11 +62879,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62587,11 +62909,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62615,11 +62939,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62643,11 +62969,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62671,11 +62999,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62699,11 +63029,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62727,11 +63059,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62755,11 +63089,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62783,11 +63119,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62811,11 +63149,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62839,11 +63179,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62867,11 +63209,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62895,11 +63239,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62923,11 +63269,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62951,11 +63299,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -62979,11 +63329,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63007,11 +63359,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63035,11 +63389,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63063,11 +63419,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63091,11 +63449,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63119,11 +63479,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63147,11 +63509,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63175,11 +63539,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63203,11 +63569,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63231,11 +63599,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63259,11 +63629,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63287,11 +63659,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63315,11 +63689,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63343,11 +63719,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63371,11 +63749,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63399,11 +63779,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63427,11 +63809,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63455,11 +63839,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63483,11 +63869,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63511,11 +63899,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63539,11 +63929,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63567,11 +63959,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63595,11 +63989,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63623,11 +64019,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63656,6 +64054,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -63739,11 +64139,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63772,6 +64174,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -63855,11 +64259,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -63888,6 +64294,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -63971,11 +64379,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -64206,6 +64616,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -64289,11 +64701,13 @@ SPLINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -64440,6 +64854,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -64523,11 +64939,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -64556,6 +64974,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -64639,11 +65059,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -64672,6 +65094,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -64755,11 +65179,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -64788,6 +65214,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -64876,6 +65304,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -64964,6 +65394,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -65052,6 +65484,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -65140,6 +65574,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -65228,6 +65664,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -65258,6 +65696,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -65346,6 +65786,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -65380,6 +65822,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -65468,6 +65912,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -65514,6 +65960,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -65602,6 +66050,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -65632,6 +66082,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -65720,6 +66172,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -65770,6 +66224,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -65858,6 +66314,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -65877,208 +66335,6 @@ AcDbPolyline
   0
 SPLINE
   5
-8A28
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbSpline
-210
-0.0
-220
-0.0
-230
-1.0
- 70
-     8
- 71
-     3
- 72
-     8
- 73
-     4
- 74
-     0
- 42
-0.000000001
- 43
-0.001
- 12
-1.0
- 22
-0.0
- 32
-0.0
- 13
-1.0
- 23
-0.0
- 33
-0.0
- 40
-0.0
- 40
-0.0
- 40
-0.0
- 40
-0.0
- 40
-1.0
- 40
-1.0
- 40
-1.0
- 40
-1.0
- 10
--384.8876900700847
- 20
--112.870336070271
- 30
-0.0
- 10
--381.5736950700847
- 20
--112.879861070271
- 30
-0.0
- 10
--378.8802375700847
- 20
--110.200867320271
- 30
-0.0
- 10
--378.8714175700846
- 20
--106.886872320271
- 30
-0.0
-  0
-LWPOLYLINE
-  5
-8A29
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbPolyline
- 90
-       23
- 70
-     0
- 43
-0.0
- 10
--470.8165950700846
- 20
--103.138256070271
- 10
--428.7944125700847
- 20
--103.138256070271
- 10
--423.8784538200846
- 20
--111.265549820271
- 10
--416.3452375700847
- 20
--112.786022320271
- 10
--415.2957238200846
- 20
--112.789549820271
- 10
--415.2851400700847
- 20
--108.923106070271
- 10
--416.3184263200847
- 20
--108.918872320271
- 10
--416.3184263200847
- 20
--103.068053570271
- 10
--416.3184263200847
- 20
--103.068053570271
- 10
--412.4629175700846
- 20
--103.081811070271
- 10
--412.4445738200845
- 20
--93.13241982027102
- 10
--410.3748263200846
- 20
--93.13806357027104
- 10
--410.3748263200846
- 20
--93.13806357027104
- 10
--405.7146313200847
- 20
--93.15076357027104
- 10
--405.7146313200847
- 20
--93.15076357027104
- 10
--403.6448838200847
- 20
--93.15676107027105
- 10
--403.6632288200847
- 20
--103.105799820271
- 10
--399.8355900700847
- 20
--103.119558570271
- 10
--399.8355900700847
- 20
--103.116031070271
- 10
--399.8355900700847
- 20
--108.964028570271
- 10
--400.8847513200847
- 20
--108.959442320271
- 10
--400.8953338200847
- 20
--112.825886070271
- 10
--384.8876900700847
- 20
--112.870336070271
-  0
-SPLINE
-  5
 8A2A
 330
 8B06
@@ -66090,6 +66346,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -66178,6 +66436,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -66208,6 +66468,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -66296,6 +66558,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -66326,6 +66590,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -66414,6 +66680,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -66444,6 +66712,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -66532,6 +66802,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -66620,6 +66892,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -66708,6 +66982,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -66796,6 +67072,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -66826,6 +67104,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -66914,6 +67194,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -67002,6 +67284,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -67032,6 +67316,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -67120,6 +67406,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -67208,6 +67496,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -67296,6 +67586,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -67384,6 +67676,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -67418,6 +67712,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -67506,6 +67802,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -67594,6 +67892,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -67682,6 +67982,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -67770,6 +68072,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -67858,6 +68162,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -67946,6 +68252,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -68034,6 +68342,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -68122,6 +68432,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -68152,6 +68464,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -68240,6 +68554,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -68328,6 +68644,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -68362,6 +68680,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -68450,6 +68770,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -68538,6 +68860,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -68568,6 +68892,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -68656,6 +68982,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -68744,6 +69072,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -68778,6 +69108,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -68866,6 +69198,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -68954,6 +69288,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -68984,6 +69320,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -69072,6 +69410,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -69160,6 +69500,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -69194,6 +69536,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -69282,6 +69626,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -69370,6 +69716,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -69400,6 +69748,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -69434,6 +69784,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -69522,6 +69874,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -69610,6 +69964,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -69656,6 +70012,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -69744,6 +70102,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -69774,6 +70134,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -69862,6 +70224,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -69912,6 +70276,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -70000,6 +70366,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -70019,208 +70387,6 @@ AcDbPolyline
   0
 SPLINE
   5
-8A62
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbSpline
-210
-0.0
-220
-0.0
-230
-1.0
- 70
-     8
- 71
-     3
- 72
-     8
- 73
-     4
- 74
-     0
- 42
-0.000000001
- 43
-0.001
- 12
-1.0
- 22
-0.0
- 32
-0.0
- 13
-1.0
- 23
-0.0
- 33
-0.0
- 40
-0.0
- 40
-0.0
- 40
-0.0
- 40
-0.0
- 40
-1.0
- 40
-1.0
- 40
-1.0
- 40
-1.0
- 10
--585.7533588200847
- 20
--112.870336070271
- 30
-0.0
- 10
--589.0677063200848
- 20
--112.879861070271
- 30
-0.0
- 10
--591.7608125700847
- 20
--110.200867320271
- 30
-0.0
- 10
--591.7699838200847
- 20
--106.886872320271
- 30
-0.0
-  0
-LWPOLYLINE
-  5
-8A63
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbPolyline
- 90
-       23
- 70
-     0
- 43
-0.0
- 10
--499.8248063200846
- 20
--103.138256070271
- 10
--541.8466375700846
- 20
--103.138256070271
- 10
--546.7629488200846
- 20
--111.265549820271
- 10
--554.2958125700846
- 20
--112.786022320271
- 10
--555.3453263200846
- 20
--112.789549820271
- 10
--555.3562625700847
- 20
--108.923106070271
- 10
--554.3229763200846
- 20
--108.918872320271
- 10
--554.3229763200846
- 20
--103.068053570271
- 10
--554.3229763200846
- 20
--103.068053570271
- 10
--558.1781313200846
- 20
--103.081811070271
- 10
--558.1968288200846
- 20
--93.13241982027102
- 10
--560.2665763200846
- 20
--93.13806357027104
- 10
--560.2665763200846
- 20
--93.13806357027104
- 10
--564.9264175700847
- 20
--93.15076357027104
- 10
--564.9264175700847
- 20
--93.15076357027104
- 10
--566.9961650700847
- 20
--93.15676107027105
- 10
--566.9781738200846
- 20
--103.105799820271
- 10
--570.8058125700845
- 20
--103.119558570271
- 10
--570.8058125700845
- 20
--103.116031070271
- 10
--570.8058125700845
- 20
--108.964028570271
- 10
--569.7566513200848
- 20
--108.959442320271
- 10
--569.7460675700847
- 20
--112.825886070271
- 10
--585.7533588200847
- 20
--112.870336070271
-  0
-SPLINE
-  5
 8A64
 330
 8B06
@@ -70232,6 +70398,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -70320,6 +70488,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -70350,6 +70520,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -70438,6 +70610,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -70468,6 +70642,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -70556,6 +70732,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -70586,6 +70764,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -70674,6 +70854,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -70762,6 +70944,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -70850,6 +71034,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -70938,6 +71124,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -71026,6 +71214,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -71114,6 +71304,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -71144,6 +71336,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -71232,6 +71426,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -71320,6 +71516,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -71408,6 +71606,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -71496,6 +71696,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -71584,6 +71786,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -71672,6 +71876,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -71760,6 +71966,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -71848,6 +72056,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -71878,6 +72088,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -71912,6 +72124,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -72000,6 +72214,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -72088,6 +72304,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -72126,6 +72344,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -72214,6 +72434,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -72302,6 +72524,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -72390,6 +72614,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -72478,6 +72704,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -72512,6 +72740,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -72600,6 +72830,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -72688,6 +72920,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -72776,6 +73010,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -72864,6 +73100,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -72952,6 +73190,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -73040,6 +73280,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -73128,6 +73370,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -73216,6 +73460,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -73304,6 +73550,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -73392,6 +73640,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -73480,6 +73730,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -73568,6 +73820,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -73656,6 +73910,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -73744,6 +74000,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -73832,6 +74090,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -73920,6 +74180,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -73950,6 +74212,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -74038,6 +74302,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -74126,6 +74392,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -74214,6 +74482,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -74302,6 +74572,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -74336,6 +74608,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -74424,6 +74698,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -74512,6 +74788,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -74600,6 +74878,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -74688,6 +74968,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -74776,6 +75058,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -74864,6 +75148,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -74952,6 +75238,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -75040,6 +75328,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -75070,6 +75360,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -75158,6 +75450,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -75246,6 +75540,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -75280,6 +75576,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -75368,6 +75666,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -75456,6 +75756,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -75486,6 +75788,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -75574,6 +75878,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -75662,6 +75968,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -75696,6 +76004,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -75784,6 +76094,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -75872,6 +76184,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -75902,6 +76216,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -75990,6 +76306,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -76078,6 +76396,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -76112,6 +76432,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -76200,6 +76522,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -76288,6 +76612,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbSpline
 210
@@ -76376,6 +76702,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -76426,6 +76754,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -76451,11 +76781,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -76479,11 +76811,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -76507,11 +76841,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -76535,11 +76871,13 @@ CIRCLE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbCircle
  10
@@ -76559,11 +76897,13 @@ ARC
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbCircle
  10
@@ -76589,11 +76929,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -76617,11 +76959,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
  62
-     3
+     1
 420
-    65280
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -76645,7 +76989,13 @@ LINE
 100
 AcDbEntity
   8
-CHANGED_PARTS
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -76674,6 +77024,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -76760,6 +77112,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -76806,6 +77160,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -76892,6 +77248,8 @@ CUTS
      1
 420
  16711680
+370
+    25
 100
 AcDbPolyline
  90
@@ -76924,98 +77282,6 @@ AcDbPolyline
 -415.1443813200849
  20
 -214.678122320271
-  0
-LWPOLYLINE
-  5
-8AC2
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbPolyline
- 90
-        6
- 70
-     0
- 43
-0.0
- 10
--480.2862088200849
- 20
--188.772944820271
- 10
--449.8058563200849
- 20
--188.772944820271
- 10
--449.8058563200849
- 20
--194.972661070271
- 10
--480.2862088200849
- 20
--194.972661070271
- 10
--480.2862088200849
- 20
--188.772944820271
- 10
--480.2862088200849
- 20
--188.772944820271
-  0
-LWPOLYLINE
-  5
-8AC3
-330
-8B06
-100
-AcDbEntity
-  8
-ORIGIONAL_PARTS_THAT_WERE_
- 62
-     6
-420
- 16711935
-100
-AcDbPolyline
- 90
-        6
- 70
-     0
- 43
-0.0
- 10
--480.2862088200849
- 20
--213.282533570271
- 10
--449.8058563200849
- 20
--213.282533570271
- 10
--449.8058563200849
- 20
--219.482956070271
- 10
--480.2862088200849
- 20
--219.482956070271
- 10
--480.2862088200849
- 20
--213.282533570271
- 10
--480.2862088200849
- 20
--213.282533570271
   0
 LWPOLYLINE
   5
@@ -78871,7 +79137,13 @@ LINE
 100
 AcDbEntity
   8
-0
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -78895,7 +79167,13 @@ LINE
 100
 AcDbEntity
   8
-0
+CUTS
+ 62
+     1
+420
+ 16711680
+370
+    25
 100
 AcDbLine
  10
@@ -78941,7 +79219,7 @@ ACAD_MATERIAL
   3
 ACAD_MLEADERSTYLE
 350
-8B57
+8B53
   3
 ACAD_MLINESTYLE
 350
@@ -78957,7 +79235,7 @@ ACAD_PLOTSTYLENAME
   3
 ACAD_TABLESTYLE
 350
-8B56
+8B52
   3
 ACAD_VISUALSTYLE
 350
@@ -79041,7 +79319,7 @@ Global
   0
 DICTIONARY
   5
-8B57
+8B53
 102
 {ACAD_REACTORS
 330
@@ -79117,7 +79395,7 @@ AcDbDictionaryWithDefault
   0
 DICTIONARY
   5
-8B56
+8B52
 102
 {ACAD_REACTORS
 330
