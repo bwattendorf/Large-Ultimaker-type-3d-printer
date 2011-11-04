@@ -485,19 +485,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2455870.4761464
+2455870.564376227
   9
 $TDUCREATE
  40
-2455870.642813067
+2455870.731042894
   9
 $TDUPDATE
  40
-2455870.476146771
+2455870.564376771
   9
 $TDUUPDATE
  40
-2455870.642813438
+2455870.731043437
   9
 $TDINDWG
  40
@@ -545,7 +545,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-106A
+107A
   9
 $SURFTAB1
  70
@@ -925,7 +925,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{44634A6A-FEB2-4B48-ADD1-4CD83998F14D}
+{359B3701-26D4-4FAC-B991-CA72F527AE77}
   9
 $VERSIONGUID
   2
@@ -1373,7 +1373,7 @@ Solid line
   0
 LTYPE
   5
-1053
+1064
 330
 1015
 100
@@ -1419,7 +1419,7 @@ BORDER
   0
 LTYPE
   5
-1054
+1065
 330
 1015
 100
@@ -1465,7 +1465,7 @@ BORDER2
   0
 LTYPE
   5
-1055
+1066
 330
 1015
 100
@@ -1511,7 +1511,7 @@ BORDERX2
   0
 LTYPE
   5
-1056
+1067
 330
 1015
 100
@@ -1549,7 +1549,7 @@ CENTER
   0
 LTYPE
   5
-1057
+1068
 330
 1015
 100
@@ -1587,7 +1587,7 @@ CENTER2
   0
 LTYPE
   5
-1058
+1069
 330
 1015
 100
@@ -1625,7 +1625,7 @@ CENTERX2
   0
 LTYPE
   5
-1059
+106A
 330
 1015
 100
@@ -1663,7 +1663,7 @@ DASHDOT
   0
 LTYPE
   5
-105A
+106B
 330
 1015
 100
@@ -1701,7 +1701,7 @@ DASHDOT2
   0
 LTYPE
   5
-105B
+106C
 330
 1015
 100
@@ -1739,7 +1739,7 @@ DASHDOTX2
   0
 LTYPE
   5
-105C
+106D
 330
 1015
 100
@@ -1769,7 +1769,7 @@ DASHED
   0
 LTYPE
   5
-105D
+106E
 330
 1015
 100
@@ -1799,7 +1799,7 @@ DASHED2
   0
 LTYPE
   5
-105E
+106F
 330
 1015
 100
@@ -1829,7 +1829,7 @@ DASHEDX2
   0
 LTYPE
   5
-105F
+1070
 330
 1015
 100
@@ -1875,7 +1875,7 @@ DIVIDE
   0
 LTYPE
   5
-1060
+1071
 330
 1015
 100
@@ -1921,7 +1921,7 @@ DIVIDE2
   0
 LTYPE
   5
-1061
+1072
 330
 1015
 100
@@ -1967,7 +1967,7 @@ DIVIDEX2
   0
 LTYPE
   5
-1062
+1073
 330
 1015
 100
@@ -1997,7 +1997,7 @@ DOT
   0
 LTYPE
   5
-1063
+1074
 330
 1015
 100
@@ -2027,7 +2027,7 @@ DOT2
   0
 LTYPE
   5
-1064
+1075
 330
 1015
 100
@@ -2067,7 +2067,7 @@ LAYER
 100
 AcDbSymbolTable
  70
-     4
+     3
   0
 LAYER
   5
@@ -2097,33 +2097,7 @@ Continuous
   0
 LAYER
   5
-1065
-330
-1012
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Laser Table
- 70
-     0
- 62
-     2
-420
- 16776960
-  6
-Continuous
-370
-     0
-390
-101F
-347
-104D
-  0
-LAYER
-  5
-1066
+1076
 330
 1012
 100
@@ -2149,7 +2123,7 @@ Continuous
   0
 LAYER
   5
-1067
+1077
 330
 1012
 100
@@ -2321,7 +2295,7 @@ Standard
   0
 DIMSTYLE
 105
-1052
+1063
 330
 101A
 100
@@ -30115,174 +30089,6 @@ AcDbSpline
  30
 0.0
   0
-LINE
-  5
-7F7
-330
-102E
-100
-AcDbEntity
-  8
-Laser Table
- 62
-     3
-420
-    65280
-100
-AcDbLine
- 10
--1200.0
- 20
-0.0
- 30
-0.0
- 11
-0.0
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
-7F8
-330
-102E
-100
-AcDbEntity
-  8
-Laser Table
- 62
-     3
-420
-    65280
-100
-AcDbLine
- 10
--1200.0
- 20
--900.0
- 30
-0.0
- 11
--1200.0
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
-7F9
-330
-102E
-100
-AcDbEntity
-  8
-Laser Table
- 62
-     3
-420
-    65280
-100
-AcDbLine
- 10
-0.0
- 20
--900.0
- 30
-0.0
- 11
-0.0
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
-7FA
-330
-102E
-100
-AcDbEntity
-  8
-Laser Table
- 62
-     3
-420
-    65280
-100
-AcDbLine
- 10
--1200.0
- 20
--900.0
- 30
-0.0
- 11
-0.0
- 21
--900.0
- 31
-0.0
-  0
-LINE
-  5
-7FB
-330
-102E
-100
-AcDbEntity
-  8
-Laser Table
- 62
-     3
-420
-    65280
-100
-AcDbLine
- 10
--1200.0
- 20
--450.0
- 30
-0.0
- 11
-0.0
- 21
--450.0
- 31
-0.0
-  0
-LINE
-  5
-7FC
-330
-102E
-100
-AcDbEntity
-  8
-Laser Table
- 62
-     3
-420
-    65280
-100
-AcDbLine
- 10
--600.0
- 20
-0.0
- 30
-0.0
- 11
--600.0
- 21
--900.0
- 31
-0.0
-  0
 LWPOLYLINE
   5
 A09
@@ -30296,6 +30102,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30326,6 +30134,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30356,6 +30166,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30386,6 +30198,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30416,6 +30230,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30446,6 +30262,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30476,6 +30294,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30506,6 +30326,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30536,6 +30358,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30566,6 +30390,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30596,6 +30422,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30626,6 +30454,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30656,6 +30486,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30686,6 +30518,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30716,6 +30550,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30746,6 +30582,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30776,6 +30614,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30806,6 +30646,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30836,6 +30678,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30866,6 +30710,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30896,6 +30742,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30926,6 +30774,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30956,6 +30806,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -30986,6 +30838,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31016,6 +30870,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31046,6 +30902,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31076,6 +30934,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31106,6 +30966,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31136,6 +30998,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31166,6 +31030,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31196,6 +31062,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31226,6 +31094,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31256,6 +31126,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31286,6 +31158,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31316,6 +31190,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31346,6 +31222,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31376,6 +31254,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31406,6 +31286,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31436,6 +31318,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31466,6 +31350,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31496,6 +31382,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31526,6 +31414,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31556,6 +31446,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31586,6 +31478,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31616,6 +31510,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31646,6 +31542,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31676,6 +31574,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31706,6 +31606,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31736,6 +31638,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31766,6 +31670,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31796,6 +31702,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31826,6 +31734,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31856,6 +31766,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31886,6 +31798,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31916,6 +31830,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31946,6 +31862,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -31976,6 +31894,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32006,6 +31926,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32036,6 +31958,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32066,6 +31990,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32096,6 +32022,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32126,6 +32054,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32156,6 +32086,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32186,6 +32118,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32216,6 +32150,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32246,6 +32182,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32276,6 +32214,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32306,6 +32246,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32336,6 +32278,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32366,6 +32310,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32396,6 +32342,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32426,6 +32374,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32456,6 +32406,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32486,6 +32438,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32516,6 +32470,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32546,6 +32502,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32576,6 +32534,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32606,6 +32566,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32636,6 +32598,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32666,6 +32630,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32696,6 +32662,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32726,6 +32694,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32756,6 +32726,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32786,6 +32758,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -32816,6 +32790,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -33270,6 +33246,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -34084,6 +34062,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -34236,6 +34216,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -35866,6 +35848,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46593,54 +46577,6 @@ AcDbSpline
  30
 0.0
   0
-LINE
-  5
-B16
-330
-102E
-100
-AcDbEntity
-  8
-Laser Table
-100
-AcDbLine
- 10
--980.1450486532792
- 20
--449.9999999999999
- 30
-0.0
- 11
--257.2387149032877
- 21
--449.9999999999999
- 31
-0.0
-  0
-LINE
-  5
-B17
-330
-102E
-100
-AcDbEntity
-  8
-Laser Table
-100
-AcDbLine
- 10
--618.6917049032845
- 20
--88.5480675000029
- 30
-0.0
- 11
--618.6917049032826
- 21
--811.451931249997
- 31
-0.0
-  0
 LWPOLYLINE
   5
 B18
@@ -46654,6 +46590,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46684,6 +46622,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46714,6 +46654,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46744,6 +46686,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46774,6 +46718,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46804,6 +46750,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46834,6 +46782,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46864,6 +46814,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46894,6 +46846,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46924,6 +46878,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46954,6 +46910,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -46984,6 +46942,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -47014,6 +46974,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -47044,6 +47006,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -47074,6 +47038,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -47104,6 +47070,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -47134,6 +47102,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -47164,6 +47134,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -47194,6 +47166,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -47224,6 +47198,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -47254,6 +47230,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -47284,6 +47262,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48076,6 +48056,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48106,6 +48088,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48136,6 +48120,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48166,6 +48152,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48196,6 +48184,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48226,6 +48216,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48256,6 +48248,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48286,6 +48280,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48316,6 +48312,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48346,6 +48344,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48376,6 +48376,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48406,6 +48408,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48436,6 +48440,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48466,6 +48472,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48496,6 +48504,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48526,6 +48536,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48556,6 +48568,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48586,6 +48600,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48616,6 +48632,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -48646,6 +48664,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49438,6 +49458,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49468,6 +49490,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49498,6 +49522,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49528,6 +49554,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49558,6 +49586,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49588,6 +49618,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49618,6 +49650,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49648,6 +49682,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49678,6 +49714,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49708,6 +49746,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49738,6 +49778,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49768,6 +49810,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49798,6 +49842,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49828,6 +49874,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49858,6 +49906,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49888,6 +49938,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49918,6 +49970,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -49948,6 +50002,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50132,6 +50188,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50162,6 +50220,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50192,6 +50252,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50222,6 +50284,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50252,6 +50316,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50282,6 +50348,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50312,6 +50380,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50342,6 +50412,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50372,6 +50444,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50402,6 +50476,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50432,6 +50508,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50462,6 +50540,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50492,6 +50572,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50522,6 +50604,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50552,6 +50636,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50582,6 +50668,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50612,6 +50700,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50642,6 +50732,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50672,6 +50764,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50702,6 +50796,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50732,6 +50828,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50762,6 +50860,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50792,6 +50892,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50822,6 +50924,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50852,6 +50956,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50882,6 +50988,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50912,6 +51020,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50942,6 +51052,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -50972,6 +51084,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51002,6 +51116,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51032,6 +51148,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51062,6 +51180,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51092,6 +51212,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51122,6 +51244,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51152,6 +51276,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51182,6 +51308,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51212,6 +51340,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51242,6 +51372,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51272,6 +51404,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51302,6 +51436,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51332,6 +51468,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51362,6 +51500,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -51392,6 +51532,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52180,6 +52322,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52210,6 +52354,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52240,6 +52386,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52270,6 +52418,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52300,6 +52450,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52330,6 +52482,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52360,6 +52514,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52390,6 +52546,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52420,6 +52578,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52450,6 +52610,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52480,6 +52642,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52510,6 +52674,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52540,6 +52706,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52570,6 +52738,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52600,6 +52770,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52630,6 +52802,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52660,6 +52834,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52690,6 +52866,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52720,6 +52898,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52750,6 +52930,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52780,6 +52962,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52810,6 +52994,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52840,6 +53026,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -52960,6 +53148,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53080,6 +53270,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53200,6 +53392,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53320,6 +53514,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53440,6 +53636,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53502,6 +53700,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53622,6 +53822,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53684,6 +53886,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53714,6 +53918,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53744,6 +53950,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53774,6 +53982,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53804,6 +54014,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53834,6 +54046,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53864,6 +54078,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53894,6 +54110,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53924,6 +54142,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53954,6 +54174,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -53984,6 +54206,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54014,6 +54238,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54044,6 +54270,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54074,6 +54302,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54104,6 +54334,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54134,6 +54366,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54164,6 +54398,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54194,6 +54430,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54224,6 +54462,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54254,6 +54494,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54284,6 +54526,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54314,6 +54558,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54344,6 +54590,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54374,6 +54622,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54404,6 +54654,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54434,6 +54686,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54496,6 +54750,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54526,6 +54782,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54556,6 +54814,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54586,6 +54846,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54616,6 +54878,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54646,6 +54910,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54676,6 +54942,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54706,6 +54974,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54736,6 +55006,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54766,6 +55038,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54796,6 +55070,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54826,6 +55102,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54856,6 +55134,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54886,6 +55166,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54916,6 +55198,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54946,6 +55230,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -54976,6 +55262,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55006,6 +55294,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55036,6 +55326,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55066,6 +55358,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55096,6 +55390,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55126,6 +55422,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55156,6 +55454,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55186,6 +55486,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55216,6 +55518,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55246,6 +55550,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55276,6 +55582,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55306,6 +55614,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55336,6 +55646,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55366,6 +55678,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55396,6 +55710,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55426,6 +55742,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55456,6 +55774,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55486,6 +55806,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55516,6 +55838,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55546,6 +55870,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55576,6 +55902,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55606,6 +55934,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55636,6 +55966,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55666,6 +55998,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55696,6 +56030,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55726,6 +56062,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55756,6 +56094,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55786,6 +56126,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55816,6 +56158,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55846,6 +56190,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55876,6 +56222,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55906,6 +56254,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -55936,6 +56286,8 @@ TEXT
      5
 420
       255
+370
+    25
 100
 AcDbPolyline
  90
@@ -72375,7 +72727,7 @@ ACAD_MATERIAL
   3
 ACAD_MLEADERSTYLE
 350
-1069
+1079
   3
 ACAD_MLINESTYLE
 350
@@ -72391,7 +72743,7 @@ ACAD_PLOTSTYLENAME
   3
 ACAD_TABLESTYLE
 350
-1068
+1078
   3
 ACAD_VISUALSTYLE
 350
@@ -72475,7 +72827,7 @@ Global
   0
 DICTIONARY
   5
-1069
+1079
 102
 {ACAD_REACTORS
 330
@@ -72551,7 +72903,7 @@ AcDbDictionaryWithDefault
   0
 DICTIONARY
   5
-1068
+1078
 102
 {ACAD_REACTORS
 330
@@ -72663,11 +73015,79 @@ AcDbDictionary
   3
 Grid/DisplayGrid
 350
+105E
+  3
+Grid/GridSpacingX
+350
+1057
+  3
+Grid/GridSpacingY
+350
+1059
+  3
+MultiPageSettings/Columns
+350
+1056
+  3
+MultiPageSettings/GlueMarginBottom
+350
+1053
+  3
+MultiPageSettings/GlueMarginsLeft
+350
+105A
+  3
+MultiPageSettings/GlueMarginsRight
+350
 1050
+  3
+MultiPageSettings/GlueMarginsTop
+350
+1062
+  3
+MultiPageSettings/PrintCropMarks
+350
+1052
+  3
+MultiPageSettings/Rows
+350
+105B
+  3
+PageSettings/OffsetX
+350
+1060
+  3
+PageSettings/OffsetY
+350
+1061
+  3
+PageSettings/PageOrientation
+350
+1051
+  3
+PageSettings/PaperHeight
+350
+1055
+  3
+PageSettings/PaperWidth
+350
+105C
   3
 PageSettings/Scale
 350
-1051
+1054
+  3
+PageSettings/ShowBoundingBox
+350
+1058
+  3
+PageSettings/ShowPageBorders
+350
+105F
+  3
+UnitSettings/PaperUnit
+350
+105D
   0
 LAYOUT
   5
@@ -75393,7 +75813,7 @@ Thicken
   0
 XRECORD
   5
-1050
+105E
 102
 {ACAD_REACTORS
 330
@@ -75411,6 +75831,204 @@ AcDbXrecord
   0
 XRECORD
   5
+1057
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+1000
+auto
+  0
+XRECORD
+  5
+1059
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+1000
+auto
+  0
+XRECORD
+  5
+1056
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+ 90
+        1
+  0
+XRECORD
+  5
+1053
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+ 40
+10.0
+  0
+XRECORD
+  5
+105A
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+ 40
+10.0
+  0
+XRECORD
+  5
+1050
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+ 40
+10.0
+  0
+XRECORD
+  5
+1062
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+ 40
+10.0
+  0
+XRECORD
+  5
+1052
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+290
+     0
+  0
+XRECORD
+  5
+105B
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+ 90
+        1
+  0
+XRECORD
+  5
+1060
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+ 40
+0.0
+  0
+XRECORD
+  5
+1061
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+ 40
+0.0
+  0
+XRECORD
+  5
 1051
 102
 {ACAD_REACTORS
@@ -75425,7 +76043,115 @@ AcDbXrecord
 280
      1
 1000
+Portrait
+  0
+XRECORD
+  5
+1055
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+ 40
+297.0
+  0
+XRECORD
+  5
+105C
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+ 40
+210.0
+  0
+XRECORD
+  5
+1054
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+1000
 1:1
+  0
+XRECORD
+  5
+1058
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+290
+     0
+  0
+XRECORD
+  5
+105F
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+290
+     1
+  0
+XRECORD
+  5
+105D
+102
+{ACAD_REACTORS
+330
+104F
+102
+}
+330
+104F
+100
+AcDbXrecord
+280
+     1
+ 90
+        4
   0
 ENDSEC
   0

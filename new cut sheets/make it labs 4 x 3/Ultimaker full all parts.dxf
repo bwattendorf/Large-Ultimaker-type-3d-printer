@@ -485,19 +485,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2455870.527435
+2455870.570633924
   9
 $TDUCREATE
  40
-2455870.694101667
+2455870.73730059
   9
 $TDUPDATE
  40
-2455870.527436991
+2455870.570636632
   9
 $TDUUPDATE
  40
-2455870.694103657
+2455870.737303298
   9
 $TDINDWG
  40
@@ -545,7 +545,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-1D0B
+1D09
   9
 $SURFTAB1
  70
@@ -925,7 +925,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{28A8DA5C-CA6B-48AB-AFF2-5785E6B7301E}
+{D01D24F4-61DE-4B3D-A10F-593C23C26C35}
   9
 $VERSIONGUID
   2
@@ -2067,7 +2067,7 @@ LAYER
 100
 AcDbSymbolTable
  70
-     5
+     3
   0
 LAYER
   5
@@ -2105,58 +2105,6 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-laser bed referance
- 70
-     0
- 62
-     3
-420
-    65280
-  6
-Continuous
-370
-    25
-390
-1CAE
-347
-1CDC
-  0
-LAYER
-  5
-1D06
-330
-1CA1
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Referance Lines
- 70
-     0
- 62
-     2
-420
- 16776960
-  6
-Continuous
-370
-    25
-390
-1CAE
-347
-1CDC
-  0
-LAYER
-  5
-1D07
-330
-1CA1
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
 CUTS
  70
      0
@@ -2175,7 +2123,7 @@ Continuous
   0
 LAYER
   5
-1D08
+1D06
 330
 1CA1
 100
@@ -2583,153 +2531,9 @@ SECTION
   2
 ENTITIES
   0
-LINE
-  5
-1B
-330
-1CBD
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--1200.0
- 20
-0.0
- 30
-0.0
- 11
-0.0
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
-1C
-330
-1CBD
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--1200.0
- 20
--900.0
- 30
-0.0
- 11
--1200.0
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
-1D
-330
-1CBD
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--0.0000000000000551
- 20
--900.0
- 30
-0.0
- 11
-0.0
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
-1E
-330
-1CBD
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--1200.0
- 20
--900.0
- 30
-0.0
- 11
--0.0000000000000551
- 21
--900.0
- 31
-0.0
-  0
-LINE
-  5
-1F
-330
-1CBD
-100
-AcDbEntity
-  8
-Referance Lines
-100
-AcDbLine
- 10
--1200.0
- 20
--450.0
- 30
-0.0
- 11
--0.0000000000000275
- 21
--450.0
- 31
-0.0
-  0
-LINE
-  5
-20
-330
-1CBD
-100
-AcDbEntity
-  8
-Referance Lines
-100
-AcDbLine
- 10
--600.0
- 20
-0.0
- 30
-0.0
- 11
--600.0
- 21
--900.0
- 31
-0.0
-  0
 SPLINE
   5
-22
+23
 330
 1CBD
 100
@@ -2817,7 +2621,7 @@ AcDbSpline
   0
 SPLINE
   5
-23
+24
 330
 1CBD
 100
@@ -2905,7 +2709,7 @@ AcDbSpline
   0
 SPLINE
   5
-24
+25
 330
 1CBD
 100
@@ -2993,7 +2797,7 @@ AcDbSpline
   0
 SPLINE
   5
-25
+26
 330
 1CBD
 100
@@ -3081,7 +2885,7 @@ AcDbSpline
   0
 LWPOLYLINE
   5
-26
+27
 330
 1CBD
 100
@@ -3111,7 +2915,7 @@ AcDbPolyline
   0
 SPLINE
   5
-27
+28
 330
 1CBD
 100
@@ -3199,7 +3003,7 @@ AcDbSpline
   0
 LWPOLYLINE
   5
-28
+29
 330
 1CBD
 100
@@ -454713,7 +454517,7 @@ ACAD_MATERIAL
   3
 ACAD_MLEADERSTYLE
 350
-1D0A
+1D08
   3
 ACAD_MLINESTYLE
 350
@@ -454729,7 +454533,7 @@ ACAD_PLOTSTYLENAME
   3
 ACAD_TABLESTYLE
 350
-1D09
+1D07
   3
 ACAD_VISUALSTYLE
 350
@@ -454813,7 +454617,7 @@ Global
   0
 DICTIONARY
   5
-1D0A
+1D08
 102
 {ACAD_REACTORS
 330
@@ -454889,7 +454693,7 @@ AcDbDictionaryWithDefault
   0
 DICTIONARY
   5
-1D09
+1D07
 102
 {ACAD_REACTORS
 330
