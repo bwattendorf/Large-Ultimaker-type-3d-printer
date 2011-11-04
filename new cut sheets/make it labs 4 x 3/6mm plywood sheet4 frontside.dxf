@@ -485,19 +485,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2455869.754466377
+2455870.450811505
   9
 $TDUCREATE
  40
-2455869.921133044
+2455870.617478171
   9
 $TDUPDATE
  40
-2455869.754466736
+2455870.450812951
   9
 $TDUUPDATE
  40
-2455869.921133403
+2455870.617479618
   9
 $TDINDWG
  40
@@ -545,7 +545,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-4F21
+4F20
   9
 $SURFTAB1
  70
@@ -925,7 +925,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{089EC09A-82C8-43D4-867A-B574521D4FD5}
+{92EADECF-51D8-4292-9CF0-88506C6042A1}
   9
 $VERSIONGUID
   2
@@ -2067,7 +2067,7 @@ LAYER
 100
 AcDbSymbolTable
  70
-     4
+     3
   0
 LAYER
   5
@@ -2105,32 +2105,6 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-laser bed referance
- 70
-     0
- 62
-     3
-420
-    65280
-  6
-Continuous
-370
-    25
-390
-4E98
-347
-4EC6
-  0
-LAYER
-  5
-4EE4
-330
-4E8B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
 CUTS
  70
      0
@@ -2149,7 +2123,7 @@ Continuous
   0
 LAYER
   5
-4EE5
+4EE4
 330
 4E8B
 100
@@ -2427,187 +2401,7 @@ AcDbBlockTableRecord
   0
 BLOCK_RECORD
   5
-4EE6
-330
-4E8A
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-M3x20_DIN912_f-0
-340
-0
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-4EE9
-330
-4E8A
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-M3x16_DIN912_f-0
-340
-0
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-4EEC
-330
-4E8A
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-M3x12_DIN912_f-0
-340
-0
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-4EEF
-330
-4E8A
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-M2x8_DIN912_f-0
-340
-0
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-4EF2
-330
-4E8A
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-M2x5_DIN912_f-0
-340
-0
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-4EF5
-330
-4E8A
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-M4_DIN934_t-0
-340
-0
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-4EF8
-330
-4E8A
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-M4_DIN934_l-0
-340
-0
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-4EFB
-330
-4E8A
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-M5_DIN934_t-0
-340
-0
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-4EFE
-330
-4E8A
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-M5_DIN934_l-0
-340
-0
- 70
-     0
-280
-     1
-281
-     0
-  0
-BLOCK_RECORD
-  5
-4F01
+4EE5
 330
 4E8A
 100
@@ -2627,7 +2421,7 @@ M2_DIN934_t-0
   0
 BLOCK_RECORD
   5
-4F04
+4EE8
 330
 4E8A
 100
@@ -2647,7 +2441,7 @@ M2_DIN934_l-0
   0
 BLOCK_RECORD
   5
-4F07
+4EEB
 330
 4E8A
 100
@@ -2667,7 +2461,7 @@ M3_DIN934_t-0
   0
 BLOCK_RECORD
   5
-4F0A
+4EEE
 330
 4E8A
 100
@@ -2687,7 +2481,7 @@ M3_DIN934_l-0
   0
 BLOCK_RECORD
   5
-4F0D
+4EF1
 330
 4E8A
 100
@@ -2707,7 +2501,7 @@ M5x14_DIN912_f-0
   0
 BLOCK_RECORD
   5
-4F10
+4EF4
 330
 4E8A
 100
@@ -2727,7 +2521,7 @@ M4x50_DIN912_f-0
   0
 BLOCK_RECORD
   5
-4F13
+4EF7
 330
 4E8A
 100
@@ -2747,7 +2541,7 @@ M4x25_DIN912_f-0
   0
 BLOCK_RECORD
   5
-4F16
+4EFA
 330
 4E8A
 100
@@ -2767,7 +2561,7 @@ M3x10_DIN912_f-0
   0
 BLOCK_RECORD
   5
-4F19
+4EFD
 330
 4E8A
 100
@@ -2787,7 +2581,7 @@ M3x40_DIN912_f-0
   0
 BLOCK_RECORD
   5
-4F1C
+4F00
 330
 4E8A
 100
@@ -2796,6 +2590,186 @@ AcDbSymbolTableRecord
 AcDbBlockTableRecord
   2
 M3x22_DIN912_f-0
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+4F03
+330
+4E8A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+M3x20_DIN912_f-0
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+4F06
+330
+4E8A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+M3x16_DIN912_f-0
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+4F09
+330
+4E8A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+M3x12_DIN912_f-0
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+4F0C
+330
+4E8A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+M2x8_DIN912_f-0
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+4F0F
+330
+4E8A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+M2x5_DIN912_f-0
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+4F12
+330
+4E8A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+M4_DIN934_t-0
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+4F15
+330
+4E8A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+M4_DIN934_l-0
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+4F18
+330
+4E8A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+M5_DIN934_t-0
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+4F1B
+330
+4E8A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+M5_DIN934_l-0
 340
 0
  70
@@ -2933,9 +2907,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-4EE7
-330
 4EE6
+330
+4EE5
 100
 AcDbEntity
   8
@@ -2943,7 +2917,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3x20_DIN912_f-0
+M2_DIN934_t-0
  70
      0
  10
@@ -2953,15 +2927,15 @@ M3x20_DIN912_f-0
  30
 0.0
   3
-M3x20_DIN912_f-0
+M2_DIN934_t-0
   1
 
   0
 ENDBLK
   5
-4EE8
+4EE7
 330
-4EE6
+4EE5
 100
 AcDbEntity
   8
@@ -2970,10 +2944,48 @@ AcDbEntity
 AcDbBlockEnd
   0
 BLOCK
+  5
+4EE9
+330
+4EE8
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+M2_DIN934_l-0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+M2_DIN934_l-0
+  1
+
+  0
+ENDBLK
   5
 4EEA
 330
-4EE9
+4EE8
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4EEC
+330
+4EEB
 100
 AcDbEntity
   8
@@ -2981,7 +2993,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3x16_DIN912_f-0
+M3_DIN934_t-0
  70
      0
  10
@@ -2991,27 +3003,27 @@ M3x16_DIN912_f-0
  30
 0.0
   3
-M3x16_DIN912_f-0
+M3_DIN934_t-0
   1
 
   0
 ENDBLK
-  5
-4EEB
-330
-4EE9
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
   5
 4EED
 330
-4EEC
+4EEB
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4EEF
+330
+4EEE
 100
 AcDbEntity
   8
@@ -3019,7 +3031,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3x12_DIN912_f-0
+M3_DIN934_l-0
  70
      0
  10
@@ -3029,27 +3041,27 @@ M3x12_DIN912_f-0
  30
 0.0
   3
-M3x12_DIN912_f-0
+M3_DIN934_l-0
   1
 
   0
 ENDBLK
-  5
-4EEE
-330
-4EEC
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
   5
 4EF0
 330
-4EEF
+4EEE
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4EF2
+330
+4EF1
 100
 AcDbEntity
   8
@@ -3057,7 +3069,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M2x8_DIN912_f-0
+M5x14_DIN912_f-0
  70
      0
  10
@@ -3067,27 +3079,27 @@ M2x8_DIN912_f-0
  30
 0.0
   3
-M2x8_DIN912_f-0
+M5x14_DIN912_f-0
   1
 
   0
 ENDBLK
-  5
-4EF1
-330
-4EEF
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
   5
 4EF3
 330
-4EF2
+4EF1
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4EF5
+330
+4EF4
 100
 AcDbEntity
   8
@@ -3095,7 +3107,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M2x5_DIN912_f-0
+M4x50_DIN912_f-0
  70
      0
  10
@@ -3105,27 +3117,27 @@ M2x5_DIN912_f-0
  30
 0.0
   3
-M2x5_DIN912_f-0
+M4x50_DIN912_f-0
   1
 
   0
 ENDBLK
-  5
-4EF4
-330
-4EF2
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
   5
 4EF6
 330
-4EF5
+4EF4
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4EF8
+330
+4EF7
 100
 AcDbEntity
   8
@@ -3133,7 +3145,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M4_DIN934_t-0
+M4x25_DIN912_f-0
  70
      0
  10
@@ -3143,27 +3155,369 @@ M4_DIN934_t-0
  30
 0.0
   3
-M4_DIN934_t-0
+M4x25_DIN912_f-0
   1
 
   0
 ENDBLK
-  5
-4EF7
-330
-4EF5
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
   5
 4EF9
 330
-4EF8
+4EF7
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4EFB
+330
+4EFA
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+M3x10_DIN912_f-0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+M3x10_DIN912_f-0
+  1
+
+  0
+ENDBLK
+  5
+4EFC
+330
+4EFA
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4EFE
+330
+4EFD
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+M3x40_DIN912_f-0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+M3x40_DIN912_f-0
+  1
+
+  0
+ENDBLK
+  5
+4EFF
+330
+4EFD
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4F01
+330
+4F00
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+M3x22_DIN912_f-0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+M3x22_DIN912_f-0
+  1
+
+  0
+ENDBLK
+  5
+4F02
+330
+4F00
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4F04
+330
+4F03
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+M3x20_DIN912_f-0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+M3x20_DIN912_f-0
+  1
+
+  0
+ENDBLK
+  5
+4F05
+330
+4F03
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4F07
+330
+4F06
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+M3x16_DIN912_f-0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+M3x16_DIN912_f-0
+  1
+
+  0
+ENDBLK
+  5
+4F08
+330
+4F06
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4F0A
+330
+4F09
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+M3x12_DIN912_f-0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+M3x12_DIN912_f-0
+  1
+
+  0
+ENDBLK
+  5
+4F0B
+330
+4F09
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4F0D
+330
+4F0C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+M2x8_DIN912_f-0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+M2x8_DIN912_f-0
+  1
+
+  0
+ENDBLK
+  5
+4F0E
+330
+4F0C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4F10
+330
+4F0F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+M2x5_DIN912_f-0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+M2x5_DIN912_f-0
+  1
+
+  0
+ENDBLK
+  5
+4F11
+330
+4F0F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4F13
+330
+4F12
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+M4_DIN934_t-0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+M4_DIN934_t-0
+  1
+
+  0
+ENDBLK
+  5
+4F14
+330
+4F12
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4F16
+330
+4F15
 100
 AcDbEntity
   8
@@ -3187,9 +3541,9 @@ M4_DIN934_l-0
   0
 ENDBLK
   5
-4EFA
+4F17
 330
-4EF8
+4F15
 100
 AcDbEntity
   8
@@ -3199,9 +3553,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-4EFC
+4F19
 330
-4EFB
+4F18
 100
 AcDbEntity
   8
@@ -3227,7 +3581,7 @@ LINE
   5
 203
 330
-4EFB
+4F18
 100
 AcDbEntity
   8
@@ -3257,7 +3611,7 @@ LINE
   5
 204
 330
-4EFB
+4F18
 100
 AcDbEntity
   8
@@ -3287,7 +3641,7 @@ LINE
   5
 205
 330
-4EFB
+4F18
 100
 AcDbEntity
   8
@@ -3317,7 +3671,7 @@ LINE
   5
 206
 330
-4EFB
+4F18
 100
 AcDbEntity
   8
@@ -3347,7 +3701,7 @@ LINE
   5
 207
 330
-4EFB
+4F18
 100
 AcDbEntity
   8
@@ -3377,7 +3731,7 @@ LINE
   5
 208
 330
-4EFB
+4F18
 100
 AcDbEntity
   8
@@ -3407,7 +3761,7 @@ CIRCLE
   5
 209
 330
-4EFB
+4F18
 100
 AcDbEntity
   8
@@ -3433,7 +3787,7 @@ ARC
   5
 20A
 330
-4EFB
+4F18
 100
 AcDbEntity
   8
@@ -3465,7 +3819,7 @@ CIRCLE
   5
 20B
 330
-4EFB
+4F18
 100
 AcDbEntity
   8
@@ -3489,363 +3843,21 @@ AcDbCircle
   0
 ENDBLK
   5
-4EFD
-330
-4EFB
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-4EFF
-330
-4EFE
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-M5_DIN934_l-0
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-M5_DIN934_l-0
-  1
-
-  0
-ENDBLK
-  5
-4F00
-330
-4EFE
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-4F02
-330
-4F01
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-M2_DIN934_t-0
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-M2_DIN934_t-0
-  1
-
-  0
-ENDBLK
-  5
-4F03
-330
-4F01
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-4F05
-330
-4F04
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-M2_DIN934_l-0
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-M2_DIN934_l-0
-  1
-
-  0
-ENDBLK
-  5
-4F06
-330
-4F04
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-4F08
-330
-4F07
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-M3_DIN934_t-0
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-M3_DIN934_t-0
-  1
-
-  0
-ENDBLK
-  5
-4F09
-330
-4F07
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-4F0B
-330
-4F0A
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-M3_DIN934_l-0
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-M3_DIN934_l-0
-  1
-
-  0
-ENDBLK
-  5
-4F0C
-330
-4F0A
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-4F0E
-330
-4F0D
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-M5x14_DIN912_f-0
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-M5x14_DIN912_f-0
-  1
-
-  0
-ENDBLK
-  5
-4F0F
-330
-4F0D
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-4F11
-330
-4F10
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-M4x50_DIN912_f-0
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-M4x50_DIN912_f-0
-  1
-
-  0
-ENDBLK
-  5
-4F12
-330
-4F10
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-4F14
-330
-4F13
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-M4x25_DIN912_f-0
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-M4x25_DIN912_f-0
-  1
-
-  0
-ENDBLK
-  5
-4F15
-330
-4F13
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-4F17
-330
-4F16
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-M3x10_DIN912_f-0
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-M3x10_DIN912_f-0
-  1
-
-  0
-ENDBLK
-  5
-4F18
-330
-4F16
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
 4F1A
 330
-4F19
+4F18
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4F1C
+330
+4F1B
 100
 AcDbEntity
   8
@@ -3853,7 +3865,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3x40_DIN912_f-0
+M5_DIN934_l-0
  70
      0
  10
@@ -3863,53 +3875,15 @@ M3x40_DIN912_f-0
  30
 0.0
   3
-M3x40_DIN912_f-0
+M5_DIN934_l-0
   1
 
   0
 ENDBLK
-  5
-4F1B
-330
-4F19
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
   5
 4F1D
 330
-4F1C
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-M3x22_DIN912_f-0
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-M3x22_DIN912_f-0
-  1
-
-  0
-ENDBLK
-  5
-4F1E
-330
-4F1C
+4F1B
 100
 AcDbEntity
   8
@@ -103547,378 +103521,6 @@ AcDbPolyline
  20
 -465.8374640000008
   0
-LINE
-  5
-4E77
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
- 62
-     3
-420
-    65280
-370
-    25
-100
-AcDbLine
- 10
--1200.0
- 20
-0.0000000000002274
- 30
-0.0
- 11
-0.0
- 21
-0.0000000000002274
- 31
-0.0
-  0
-LINE
-  5
-4E78
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
- 62
-     3
-420
-    65280
-370
-    25
-100
-AcDbLine
- 10
--1200.0
- 20
--899.9999999999998
- 30
-0.0
- 11
--1200.0
- 21
-0.0000000000002274
- 31
-0.0
-  0
-LINE
-  5
-4E79
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
- 62
-     3
-420
-    65280
-370
-    25
-100
-AcDbLine
- 10
-0.0
- 20
--899.9999999999998
- 30
-0.0
- 11
-0.0
- 21
-0.0000000000002274
- 31
-0.0
-  0
-LINE
-  5
-4E7A
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
- 62
-     3
-420
-    65280
-370
-    25
-100
-AcDbLine
- 10
--1200.0
- 20
--899.9999999999998
- 30
-0.0
- 11
-0.0
- 21
--899.9999999999998
- 31
-0.0
-  0
-LINE
-  5
-4E7B
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
- 62
-     3
-420
-    65280
-370
-    25
-100
-AcDbLine
- 10
--1200.0
- 20
--449.9999999999998
- 30
-0.0
- 11
-0.0
- 21
--449.9999999999998
- 31
-0.0
-  0
-LINE
-  5
-4E7C
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
- 62
-     3
-420
-    65280
-370
-    25
-100
-AcDbLine
- 10
--600.0
- 20
-0.0000000000002274
- 30
-0.0
- 11
--600.0
- 21
--899.9999999999998
- 31
-0.0
-  0
-LINE
-  5
-4E7D
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--28.83695349999971
- 20
--856.6790000000004
- 30
-0.0
- 11
--1171.1816735
- 21
--856.6789999999996
- 31
-0.0
-  0
-LINE
-  5
-4E7E
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--28.82453550000014
- 20
--43.32099999999946
- 30
-0.0
- 11
--1171.1692555
- 21
--43.32099999999969
- 31
-0.0
-  0
-LINE
-  5
-4E83
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--1171.5031045
- 20
--856.6789999999999
- 30
-0.0
- 11
--1171.5031045
- 21
--43.32099999999957
- 31
-0.0
-  0
-LINE
-  5
-4E84
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--1171.5031045
- 20
--43.32099999999957
- 30
-0.0
- 11
--28.50310449999961
- 21
--43.32100000000025
- 31
-0.0
-  0
-LINE
-  5
-4E85
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--28.50310449999961
- 20
--43.32100000000025
- 30
-0.0
- 11
--28.50310450000097
- 21
--856.6790000000003
- 31
-0.0
-  0
-LINE
-  5
-4E86
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--28.50310450000097
- 20
--856.6790000000003
- 30
-0.0
- 11
--1171.5031045
- 21
--856.6789999999999
- 31
-0.0
-  0
-LINE
-  5
-4E87
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--600.0031044953332
- 20
--856.6789999999999
- 30
-0.0
- 11
--599.996895504667
- 21
--43.32099999999957
- 31
-0.0
-  0
-LINE
-  5
-4E88
-330
-4EA7
-100
-AcDbEntity
-  8
-laser bed referance
-100
-AcDbLine
- 10
--1171.5031045
- 20
--449.9999999999997
- 30
-0.0
- 11
--28.50310450000006
- 21
--449.9999999999999
- 31
-0.0
-  0
 ENDSEC
   0
 SECTION
@@ -103949,7 +103551,7 @@ ACAD_MATERIAL
   3
 ACAD_MLEADERSTYLE
 350
-4F20
+4F1F
   3
 ACAD_MLINESTYLE
 350
@@ -103965,7 +103567,7 @@ ACAD_PLOTSTYLENAME
   3
 ACAD_TABLESTYLE
 350
-4F1F
+4F1E
   3
 ACAD_VISUALSTYLE
 350
@@ -104049,7 +103651,7 @@ Global
   0
 DICTIONARY
   5
-4F20
+4F1F
 102
 {ACAD_REACTORS
 330
@@ -104125,7 +103727,7 @@ AcDbDictionaryWithDefault
   0
 DICTIONARY
   5
-4F1F
+4F1E
 102
 {ACAD_REACTORS
 330
