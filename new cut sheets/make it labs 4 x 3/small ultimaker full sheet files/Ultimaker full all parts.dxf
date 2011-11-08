@@ -485,19 +485,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2455870.570633924
+2455874.638425208
   9
 $TDUCREATE
  40
-2455870.73730059
+2455874.846758542
   9
 $TDUPDATE
  40
-2455870.570636632
+2455874.63842809
   9
 $TDUUPDATE
  40
-2455870.737303298
+2455874.846761424
   9
 $TDINDWG
  40
@@ -925,7 +925,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{D01D24F4-61DE-4B3D-A10F-593C23C26C35}
+{2079FF83-4947-4CBF-9252-08E7108A32F3}
   9
 $VERSIONGUID
   2
@@ -387493,11 +387493,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -387581,11 +387581,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -387669,11 +387669,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -387699,11 +387699,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -387787,11 +387787,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -387875,11 +387875,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -387905,11 +387905,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -387993,11 +387993,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -388081,11 +388081,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -388111,11 +388111,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -388199,11 +388199,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -388287,11 +388287,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -388317,11 +388317,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -388405,11 +388405,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -388493,11 +388493,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -388523,11 +388523,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -388611,11 +388611,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -388699,11 +388699,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -388733,11 +388733,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -388821,11 +388821,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -388851,11 +388851,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -388939,11 +388939,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -389027,11 +389027,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -389057,11 +389057,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -389145,11 +389145,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -389233,11 +389233,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -389321,11 +389321,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -389355,11 +389355,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -389443,11 +389443,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -389531,11 +389531,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -389561,11 +389561,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -389649,11 +389649,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -389737,11 +389737,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -389825,11 +389825,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -389855,11 +389855,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -389943,11 +389943,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -390031,11 +390031,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -390119,11 +390119,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -390207,11 +390207,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -390237,11 +390237,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -390325,11 +390325,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -390413,11 +390413,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -390447,11 +390447,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -390535,11 +390535,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -390565,11 +390565,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -390653,11 +390653,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -390741,11 +390741,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -390829,11 +390829,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -390859,11 +390859,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -390947,11 +390947,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -391035,11 +391035,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -391069,11 +391069,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -391157,11 +391157,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -391187,11 +391187,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -391275,11 +391275,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -391363,11 +391363,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -391451,11 +391451,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -391539,11 +391539,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -391627,11 +391627,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -391715,11 +391715,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -391803,11 +391803,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -391891,11 +391891,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -391921,11 +391921,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -391955,11 +391955,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -392043,11 +392043,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -392131,11 +392131,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -392219,11 +392219,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -392249,11 +392249,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -392337,11 +392337,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -392425,11 +392425,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -392513,11 +392513,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -392601,11 +392601,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -392635,11 +392635,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -392723,11 +392723,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -392811,11 +392811,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -392841,11 +392841,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -392929,11 +392929,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -393017,11 +393017,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -393105,11 +393105,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -393139,11 +393139,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -393227,11 +393227,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -393315,11 +393315,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -393403,11 +393403,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -393491,11 +393491,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -393579,11 +393579,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -393667,11 +393667,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -393755,11 +393755,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -393843,11 +393843,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -393931,11 +393931,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394019,11 +394019,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394107,11 +394107,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394195,11 +394195,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394283,11 +394283,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394371,11 +394371,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394459,11 +394459,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394547,11 +394547,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394635,11 +394635,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394723,11 +394723,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394811,11 +394811,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394899,11 +394899,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -394987,11 +394987,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -395075,11 +395075,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -395163,11 +395163,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -395251,11 +395251,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -395339,11 +395339,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -395427,11 +395427,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -395461,11 +395461,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -395549,11 +395549,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -395637,11 +395637,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -395725,11 +395725,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -395767,11 +395767,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -395855,11 +395855,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -395885,11 +395885,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -395973,11 +395973,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -396003,11 +396003,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -396091,11 +396091,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -396179,11 +396179,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -396267,11 +396267,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -396355,11 +396355,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -396385,11 +396385,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -396473,11 +396473,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -396561,11 +396561,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -396591,11 +396591,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -396679,11 +396679,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -396767,11 +396767,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -396855,11 +396855,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -396889,11 +396889,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -396977,11 +396977,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -397065,11 +397065,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -397095,11 +397095,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -397133,11 +397133,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -397221,11 +397221,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -397251,11 +397251,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -397339,11 +397339,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -397427,11 +397427,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -397457,11 +397457,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -397545,11 +397545,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -397579,11 +397579,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -397667,11 +397667,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -397755,11 +397755,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -397843,11 +397843,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -397931,11 +397931,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -398019,11 +398019,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -398107,11 +398107,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -398195,11 +398195,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -398283,11 +398283,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -398371,11 +398371,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -398459,11 +398459,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -398547,11 +398547,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -398577,11 +398577,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -398665,11 +398665,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -398753,11 +398753,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -398841,11 +398841,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -398929,11 +398929,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -398959,11 +398959,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -399047,11 +399047,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -399135,11 +399135,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -399165,11 +399165,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -399253,11 +399253,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -399341,11 +399341,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -399375,11 +399375,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -399463,11 +399463,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -399551,11 +399551,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -399589,11 +399589,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -399677,11 +399677,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -399765,11 +399765,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -399799,11 +399799,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -399887,11 +399887,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -399975,11 +399975,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -400009,11 +400009,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -400097,11 +400097,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -400185,11 +400185,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -400219,11 +400219,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -400307,11 +400307,11 @@ SPLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -400395,11 +400395,11 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90

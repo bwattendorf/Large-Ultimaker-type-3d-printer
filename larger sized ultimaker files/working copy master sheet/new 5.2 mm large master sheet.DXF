@@ -485,19 +485,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2455869.699962523
+2455874.636522268
   9
 $TDUCREATE
  40
-2455869.86662919
+2455874.844855602
   9
 $TDUPDATE
  40
-2455869.69996559
+2455874.636525162
   9
 $TDUUPDATE
  40
-2455869.866632257
+2455874.844858496
   9
 $TDINDWG
  40
@@ -545,7 +545,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-A92A
+A93B
   9
 $SURFTAB1
  70
@@ -925,7 +925,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{B90B4308-6061-4379-8892-90E3A50A7405}
+{37047389-66AE-4E42-83F8-D2B19B78C0F4}
   9
 $VERSIONGUID
   2
@@ -1373,7 +1373,7 @@ Solid line
   0
 LTYPE
   5
-A8FB
+A90C
 330
 A8BD
 100
@@ -1419,7 +1419,7 @@ BORDER
   0
 LTYPE
   5
-A8FC
+A90D
 330
 A8BD
 100
@@ -1465,7 +1465,7 @@ BORDER2
   0
 LTYPE
   5
-A8FD
+A90E
 330
 A8BD
 100
@@ -1511,7 +1511,7 @@ BORDERX2
   0
 LTYPE
   5
-A8FE
+A90F
 330
 A8BD
 100
@@ -1549,7 +1549,7 @@ CENTER
   0
 LTYPE
   5
-A8FF
+A910
 330
 A8BD
 100
@@ -1587,7 +1587,7 @@ CENTER2
   0
 LTYPE
   5
-A900
+A911
 330
 A8BD
 100
@@ -1625,7 +1625,7 @@ CENTERX2
   0
 LTYPE
   5
-A901
+A912
 330
 A8BD
 100
@@ -1663,7 +1663,7 @@ DASHDOT
   0
 LTYPE
   5
-A902
+A913
 330
 A8BD
 100
@@ -1701,7 +1701,7 @@ DASHDOT2
   0
 LTYPE
   5
-A903
+A914
 330
 A8BD
 100
@@ -1739,7 +1739,7 @@ DASHDOTX2
   0
 LTYPE
   5
-A904
+A915
 330
 A8BD
 100
@@ -1769,7 +1769,7 @@ DASHED
   0
 LTYPE
   5
-A905
+A916
 330
 A8BD
 100
@@ -1799,7 +1799,7 @@ DASHED2
   0
 LTYPE
   5
-A906
+A917
 330
 A8BD
 100
@@ -1829,7 +1829,7 @@ DASHEDX2
   0
 LTYPE
   5
-A907
+A918
 330
 A8BD
 100
@@ -1875,7 +1875,7 @@ DIVIDE
   0
 LTYPE
   5
-A908
+A919
 330
 A8BD
 100
@@ -1921,7 +1921,7 @@ DIVIDE2
   0
 LTYPE
   5
-A909
+A91A
 330
 A8BD
 100
@@ -1967,7 +1967,7 @@ DIVIDEX2
   0
 LTYPE
   5
-A90A
+A91B
 330
 A8BD
 100
@@ -1997,7 +1997,7 @@ DOT
   0
 LTYPE
   5
-A90B
+A91C
 330
 A8BD
 100
@@ -2027,7 +2027,7 @@ DOT2
   0
 LTYPE
   5
-A90C
+A91D
 330
 A8BD
 100
@@ -2097,371 +2097,7 @@ A8F5
   0
 LAYER
   5
-A90D
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-CHANGED_PARTS
- 70
-     0
- 62
-     3
-420
-    65280
-  6
-Continuous
-370
-    -3
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A90E
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-New Right Hand Side Text
- 70
-     0
- 62
-     5
-420
-      255
-  6
-Continuous
-370
-     0
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A90F
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Referance lines
- 70
-     0
- 62
-     2
-420
- 16776960
-  6
-Continuous
-370
-     0
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A910
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-TEXT
- 70
-     0
- 62
-     5
-420
-      255
-  6
-Continuous
-370
-    -3
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A911
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-new changed parts
- 70
-     0
- 62
-     4
-420
-    65535
-  6
-Continuous
-370
-    25
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A912
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-lcd screen
- 70
-     0
- 62
-     1
-420
- 16711680
-  6
-Continuous
-370
-     0
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A913
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Laser Table
- 70
-     0
- 62
-     2
-420
- 16776960
-  6
-Continuous
-370
-     0
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A914
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-New Bottom board
- 70
-     0
- 62
-     1
-420
- 16711680
-  6
-Continuous
-370
-     0
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A915
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Front
- 70
-     0
- 62
-     1
-420
- 16711680
-  6
-Continuous
-370
-     0
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A916
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-New Back
- 70
-     0
- 62
-     1
-420
- 16711680
-  6
-Continuous
-370
-     0
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A917
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Changed Parts
- 70
-     0
- 62
-     3
-420
-    65280
-  6
-Continuous
-370
-    25
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A918
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-New Back Text
- 70
-     0
- 62
-     5
-420
-      255
-  6
-Continuous
-370
-     0
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A919
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Origional Parts I have changed
- 70
-     0
- 62
-     6
-420
- 16711935
-  6
-Continuous
-370
-    25
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A91A
-330
-A8BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-New Right hand side
- 70
-     0
- 62
-     1
-420
- 16711680
-  6
-Continuous
-370
-     0
-390
-A8C7
-347
-A8F5
-  0
-LAYER
-  5
-A91B
+A91E
 330
 A8BA
 100
@@ -2487,7 +2123,7 @@ A8F5
   0
 LAYER
   5
-A91C
+A91F
 330
 A8BA
 100
@@ -2513,7 +2149,7 @@ A8F5
   0
 LAYER
   5
-A91D
+A920
 330
 A8BA
 100
@@ -2539,7 +2175,7 @@ A8F5
   0
 LAYER
   5
-A91E
+A921
 330
 A8BA
 100
@@ -2565,7 +2201,7 @@ A8F5
   0
 LAYER
   5
-A91F
+A922
 330
 A8BA
 100
@@ -2591,7 +2227,7 @@ A8F5
   0
 LAYER
   5
-A920
+A923
 330
 A8BA
 100
@@ -2617,7 +2253,7 @@ A8F5
   0
 LAYER
   5
-A921
+A924
 330
 A8BA
 100
@@ -2643,7 +2279,7 @@ A8F5
   0
 LAYER
   5
-A922
+A925
 330
 A8BA
 100
@@ -2669,7 +2305,7 @@ A8F5
   0
 LAYER
   5
-A923
+A926
 330
 A8BA
 100
@@ -2695,7 +2331,7 @@ A8F5
   0
 LAYER
   5
-A924
+A927
 330
 A8BA
 100
@@ -2721,7 +2357,7 @@ A8F5
   0
 LAYER
   5
-A925
+A928
 330
 A8BA
 100
@@ -2747,7 +2383,7 @@ A8F5
   0
 LAYER
   5
-A926
+A929
 330
 A8BA
 100
@@ -2773,7 +2409,7 @@ A8F5
   0
 LAYER
   5
-A927
+A92A
 330
 A8BA
 100
@@ -2792,6 +2428,370 @@ CUTS
 Continuous
 370
     -3
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A92B
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+CHANGED_PARTS
+ 70
+     0
+ 62
+     3
+420
+    65280
+  6
+Continuous
+370
+    -3
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A92C
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+New Right Hand Side Text
+ 70
+     0
+ 62
+     5
+420
+      255
+  6
+Continuous
+370
+     0
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A92D
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Referance lines
+ 70
+     0
+ 62
+     2
+420
+ 16776960
+  6
+Continuous
+370
+     0
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A92E
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+TEXT
+ 70
+     0
+ 62
+     5
+420
+      255
+  6
+Continuous
+370
+    -3
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A92F
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+new changed parts
+ 70
+     0
+ 62
+     4
+420
+    65535
+  6
+Continuous
+370
+    25
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A930
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+lcd screen
+ 70
+     0
+ 62
+     1
+420
+ 16711680
+  6
+Continuous
+370
+     0
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A931
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Laser Table
+ 70
+     0
+ 62
+     2
+420
+ 16776960
+  6
+Continuous
+370
+     0
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A932
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+New Bottom board
+ 70
+     0
+ 62
+     1
+420
+ 16711680
+  6
+Continuous
+370
+     0
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A933
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Front
+ 70
+     0
+ 62
+     1
+420
+ 16711680
+  6
+Continuous
+370
+     0
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A934
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+New Back
+ 70
+     0
+ 62
+     1
+420
+ 16711680
+  6
+Continuous
+370
+     0
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A935
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Changed Parts
+ 70
+     0
+ 62
+     3
+420
+    65280
+  6
+Continuous
+370
+    25
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A936
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+New Back Text
+ 70
+     0
+ 62
+     5
+420
+      255
+  6
+Continuous
+370
+     0
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A937
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Origional Parts I have changed
+ 70
+     0
+ 62
+     6
+420
+ 16711935
+  6
+Continuous
+370
+    25
+390
+A8C7
+347
+A8F5
+  0
+LAYER
+  5
+A938
+330
+A8BA
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+New Right hand side
+ 70
+     0
+ 62
+     1
+420
+ 16711680
+  6
+Continuous
+370
+     0
 390
 A8C7
 347
@@ -2945,7 +2945,7 @@ A8C9
   0
 DIMSTYLE
 105
-A8FA
+A90B
 330
 A8C2
 100
@@ -191575,11 +191575,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -191663,11 +191663,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -191751,11 +191751,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -191781,11 +191781,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -191869,11 +191869,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -191957,11 +191957,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -191987,11 +191987,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -192075,11 +192075,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -192163,11 +192163,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -192193,11 +192193,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -192281,11 +192281,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -192369,11 +192369,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -192399,11 +192399,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -192487,11 +192487,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -192575,11 +192575,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -192605,11 +192605,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -192693,11 +192693,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -192781,11 +192781,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -192815,11 +192815,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -192903,11 +192903,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -192933,11 +192933,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -193021,11 +193021,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -193109,11 +193109,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -193139,11 +193139,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -193227,11 +193227,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -193315,11 +193315,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -193403,11 +193403,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -193437,11 +193437,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -193525,11 +193525,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -193613,11 +193613,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -193643,11 +193643,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -193731,11 +193731,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -193819,11 +193819,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -193907,11 +193907,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -193937,11 +193937,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -194025,11 +194025,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -194113,11 +194113,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -194201,11 +194201,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -194289,11 +194289,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -194319,11 +194319,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -194407,11 +194407,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -194495,11 +194495,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -194529,11 +194529,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -194617,11 +194617,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -194647,11 +194647,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -194735,11 +194735,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -194823,11 +194823,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -194911,11 +194911,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -194941,11 +194941,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -195029,11 +195029,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -195117,11 +195117,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -195151,11 +195151,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -195239,11 +195239,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -195269,11 +195269,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -195357,11 +195357,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -195445,11 +195445,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -195533,11 +195533,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -195621,11 +195621,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -195709,11 +195709,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -195797,11 +195797,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -195885,11 +195885,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -195973,11 +195973,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -196003,11 +196003,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -196037,11 +196037,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -196125,11 +196125,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -196213,11 +196213,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -196301,11 +196301,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -196331,11 +196331,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -196419,11 +196419,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -196507,11 +196507,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -196595,11 +196595,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -196683,11 +196683,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -196717,11 +196717,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -196805,11 +196805,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -196893,11 +196893,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -196923,11 +196923,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -197011,11 +197011,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -197099,11 +197099,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -197187,11 +197187,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -197221,11 +197221,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -197309,11 +197309,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -197397,11 +197397,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -197485,11 +197485,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -197573,11 +197573,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -197661,11 +197661,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -197749,11 +197749,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -197837,11 +197837,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -197925,11 +197925,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198013,11 +198013,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198101,11 +198101,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198189,11 +198189,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198277,11 +198277,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198365,11 +198365,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198453,11 +198453,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198541,11 +198541,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198629,11 +198629,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198717,11 +198717,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198805,11 +198805,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198893,11 +198893,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -198981,11 +198981,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -199069,11 +199069,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -199157,11 +199157,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -199245,11 +199245,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -199333,11 +199333,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -199421,11 +199421,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -199509,11 +199509,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -199543,11 +199543,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -199631,11 +199631,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -199719,11 +199719,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -199807,11 +199807,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -199849,11 +199849,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -199937,11 +199937,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -199967,11 +199967,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -200055,11 +200055,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -200085,11 +200085,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -200173,11 +200173,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -200261,11 +200261,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -200349,11 +200349,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -200437,11 +200437,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -200467,11 +200467,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -200555,11 +200555,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -200643,11 +200643,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -200673,11 +200673,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -200761,11 +200761,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -200849,11 +200849,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -200937,11 +200937,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -200971,11 +200971,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -201059,11 +201059,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -201147,11 +201147,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -201177,11 +201177,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -201215,11 +201215,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -201303,11 +201303,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -201333,11 +201333,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -201421,11 +201421,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -201509,11 +201509,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -201539,11 +201539,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -201627,11 +201627,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -201661,11 +201661,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -201749,11 +201749,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -201837,11 +201837,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -201925,11 +201925,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -202013,11 +202013,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -202101,11 +202101,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -202189,11 +202189,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -202277,11 +202277,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -202365,11 +202365,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -202453,11 +202453,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -202541,11 +202541,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -202629,11 +202629,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -202659,11 +202659,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -202747,11 +202747,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -202835,11 +202835,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -202923,11 +202923,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -203011,11 +203011,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -203041,11 +203041,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -203129,11 +203129,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -203217,11 +203217,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -203247,11 +203247,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -203335,11 +203335,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -203423,11 +203423,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -203457,11 +203457,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -203545,11 +203545,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -203633,11 +203633,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -203671,11 +203671,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -203759,11 +203759,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -203847,11 +203847,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -203881,11 +203881,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -203969,11 +203969,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -204057,11 +204057,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -204091,11 +204091,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -204179,11 +204179,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -204267,11 +204267,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -204301,11 +204301,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -204389,11 +204389,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbSpline
 210
@@ -204477,11 +204477,11 @@ A8D6
 100
 AcDbEntity
   8
-TEXT
+CUTS
  62
-     5
+     1
 420
-      255
+ 16711680
 100
 AcDbPolyline
  90
@@ -443391,39 +443391,39 @@ AcDbSpline
  40
 1.142485308008559
  40
-2.346082588076021
+2.346082588075975
  40
-3.019203752647144
+3.019203752647182
  40
-3.816741159452146
+3.81674115945228
  40
-4.773559559323369
+4.773559559323036
  40
-5.752632524696885
+5.752632524697137
  40
-7.145007816650807
+7.145007816651056
  40
-8.265175445722928
+8.265175445722598
  40
-9.615532241890818
+9.615532241890898
  40
-11.26062755726542
+11.26062755726505
  40
-12.19788633039101
+12.19788633039042
  40
-13.26823355779147
+13.26823355779178
  40
-14.72982742944986
+14.72982742944973
  40
-15.87300285961455
+15.87300285961484
  40
-16.58665024065855
+16.58665024065827
  40
-16.58665024065855
+16.58665024065827
  40
-16.58665024065855
+16.58665024065827
  40
-16.58665024065855
+16.58665024065827
  10
 17.94470325805065
  20
@@ -443437,93 +443437,93 @@ AcDbSpline
  30
 0.0
  10
-16.40135159254851
+16.40135159254857
  20
--1438.463043166258
+-1438.463043166259
  30
 0.0
  10
-15.83488308373838
+15.83488308373832
  20
 -1438.624171060956
  30
 0.0
  10
-14.93982024761686
+14.93982024761683
  20
 -1438.963449421295
  30
 0.0
  10
-14.23002491859807
+14.23002491859842
  20
 -1439.315287103375
  30
 0.0
  10
-13.42824844836755
+13.42824844836696
  20
 -1439.769902518259
  30
 0.0
  10
-12.59995057064
+12.59995057064042
  20
 -1440.506640456325
  30
 0.0
  10
-11.71513626188999
+11.71513626189021
  20
--1441.284989774139
+-1441.28498977414
  30
 0.0
  10
-11.08796386282927
+11.08796386282894
  20
--1442.419807499937
+-1442.419807499936
  30
 0.0
  10
-10.42253060899712
+10.42253060899737
  20
 -1443.628036349097
  30
 0.0
  10
-10.2050354473117
+10.20503544731163
  20
 -1444.943173963844
  30
 0.0
  10
-10.15393261244899
+10.15393261244903
  20
 -1446.161216313326
  30
 0.0
  10
-10.21500543868125
+10.21500543868109
  20
 -1447.305989717052
  30
 0.0
  10
-10.5026320109568
+10.50263201095712
  20
 -1448.573465901938
  30
 0.0
  10
-11.02902837203909
+11.0290283720387
  20
 -1449.383877297391
  30
 0.0
  10
-11.19723593805436
+11.19723593805455
  20
--1450.260310005339
+-1450.260310005338
  30
 0.0
  10
@@ -549209,7 +549209,7 @@ A8F2
   3
 ACAD_MLEADERSTYLE
 350
-A929
+A93A
   3
 ACAD_MLINESTYLE
 350
@@ -549225,7 +549225,7 @@ A8C6
   3
 ACAD_TABLESTYLE
 350
-A928
+A939
   3
 ACAD_VISUALSTYLE
 350
@@ -549309,7 +549309,7 @@ A8F5
   0
 DICTIONARY
   5
-A929
+A93A
 102
 {ACAD_REACTORS
 330
@@ -549385,7 +549385,7 @@ A8C7
   0
 DICTIONARY
   5
-A928
+A939
 102
 {ACAD_REACTORS
 330
@@ -549497,11 +549497,79 @@ AcDbDictionary
   3
 Grid/DisplayGrid
 350
+A906
+  3
+Grid/GridSpacingX
+350
+A8FF
+  3
+Grid/GridSpacingY
+350
+A901
+  3
+MultiPageSettings/Columns
+350
+A8FE
+  3
+MultiPageSettings/GlueMarginBottom
+350
+A8FB
+  3
+MultiPageSettings/GlueMarginsLeft
+350
+A902
+  3
+MultiPageSettings/GlueMarginsRight
+350
 A8F8
+  3
+MultiPageSettings/GlueMarginsTop
+350
+A90A
+  3
+MultiPageSettings/PrintCropMarks
+350
+A8FA
+  3
+MultiPageSettings/Rows
+350
+A903
+  3
+PageSettings/OffsetX
+350
+A908
+  3
+PageSettings/OffsetY
+350
+A909
+  3
+PageSettings/PageOrientation
+350
+A8F9
+  3
+PageSettings/PaperHeight
+350
+A8FD
+  3
+PageSettings/PaperWidth
+350
+A904
   3
 PageSettings/Scale
 350
-A8F9
+A8FC
+  3
+PageSettings/ShowBoundingBox
+350
+A900
+  3
+PageSettings/ShowPageBorders
+350
+A907
+  3
+UnitSettings/PaperUnit
+350
+A905
   0
 LAYOUT
   5
@@ -552227,7 +552295,7 @@ Thicken
   0
 XRECORD
   5
-A8F8
+A906
 102
 {ACAD_REACTORS
 330
@@ -552245,6 +552313,204 @@ AcDbXrecord
   0
 XRECORD
   5
+A8FF
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+1000
+auto
+  0
+XRECORD
+  5
+A901
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+1000
+auto
+  0
+XRECORD
+  5
+A8FE
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+ 90
+        1
+  0
+XRECORD
+  5
+A8FB
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+ 40
+10.0
+  0
+XRECORD
+  5
+A902
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+ 40
+10.0
+  0
+XRECORD
+  5
+A8F8
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+ 40
+10.0
+  0
+XRECORD
+  5
+A90A
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+ 40
+10.0
+  0
+XRECORD
+  5
+A8FA
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+290
+     0
+  0
+XRECORD
+  5
+A903
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+ 90
+        1
+  0
+XRECORD
+  5
+A908
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+ 40
+0.0
+  0
+XRECORD
+  5
+A909
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+ 40
+0.0
+  0
+XRECORD
+  5
 A8F9
 102
 {ACAD_REACTORS
@@ -552259,7 +552525,115 @@ AcDbXrecord
 280
      1
 1000
+Portrait
+  0
+XRECORD
+  5
+A8FD
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+ 40
+297.0
+  0
+XRECORD
+  5
+A904
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+ 40
+210.0
+  0
+XRECORD
+  5
+A8FC
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+1000
 1:1
+  0
+XRECORD
+  5
+A900
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+290
+     0
+  0
+XRECORD
+  5
+A907
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+290
+     1
+  0
+XRECORD
+  5
+A905
+102
+{ACAD_REACTORS
+330
+A8F7
+102
+}
+330
+A8F7
+100
+AcDbXrecord
+280
+     1
+ 90
+        4
   0
 ENDSEC
   0
