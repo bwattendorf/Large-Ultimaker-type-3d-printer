@@ -485,19 +485,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2455874.6379325
+2455877.608601146
   9
 $TDUCREATE
  40
-2455874.846265833
+2455877.816934479
   9
 $TDUPDATE
  40
-2455874.637933947
+2455877.608602222
   9
 $TDUUPDATE
  40
-2455874.84626728
+2455877.816935556
   9
 $TDINDWG
  40
@@ -925,7 +925,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{29A5C340-B76A-4B3C-BF23-230594B871E5}
+{4207BC55-CB6F-40BB-B6BE-26A815D711DC}
   9
 $VERSIONGUID
   2
@@ -2409,7 +2409,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M3x20_DIN912_f-0
+M3x16_DIN912_f-0
 340
 0
  70
@@ -2429,7 +2429,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M3x16_DIN912_f-0
+M3x12_DIN912_f-0
 340
 0
  70
@@ -2449,7 +2449,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M3x12_DIN912_f-0
+M2x8_DIN912_f-0
 340
 0
  70
@@ -2469,7 +2469,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M2x8_DIN912_f-0
+M2x5_DIN912_f-0
 340
 0
  70
@@ -2489,7 +2489,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M2x5_DIN912_f-0
+M4_DIN934_t-0
 340
 0
  70
@@ -2509,7 +2509,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M4_DIN934_t-0
+M4_DIN934_l-0
 340
 0
  70
@@ -2529,7 +2529,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M4_DIN934_l-0
+M5_DIN934_t-0
 340
 0
  70
@@ -2549,7 +2549,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M5_DIN934_t-0
+M5_DIN934_l-0
 340
 0
  70
@@ -2569,7 +2569,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M5_DIN934_l-0
+M2_DIN934_t-0
 340
 0
  70
@@ -2589,7 +2589,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M2_DIN934_t-0
+M2_DIN934_l-0
 340
 0
  70
@@ -2609,7 +2609,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M2_DIN934_l-0
+M3_DIN934_t-0
 340
 0
  70
@@ -2629,7 +2629,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M3_DIN934_t-0
+M3_DIN934_l-0
 340
 0
  70
@@ -2649,7 +2649,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M3_DIN934_l-0
+M5x14_DIN912_f-0
 340
 0
  70
@@ -2669,7 +2669,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M5x14_DIN912_f-0
+M4x50_DIN912_f-0
 340
 0
  70
@@ -2689,7 +2689,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M4x50_DIN912_f-0
+M4x25_DIN912_f-0
 340
 0
  70
@@ -2709,7 +2709,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M4x25_DIN912_f-0
+M3x10_DIN912_f-0
 340
 0
  70
@@ -2729,7 +2729,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M3x10_DIN912_f-0
+M3x40_DIN912_f-0
 340
 0
  70
@@ -2749,7 +2749,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M3x40_DIN912_f-0
+M3x22_DIN912_f-0
 340
 0
  70
@@ -2769,7 +2769,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-M3x22_DIN912_f-0
+M3x20_DIN912_f-0
 340
 0
  70
@@ -2917,7 +2917,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3x20_DIN912_f-0
+M3x16_DIN912_f-0
  70
      0
  10
@@ -2927,7 +2927,7 @@ M3x20_DIN912_f-0
  30
 0.0
   3
-M3x20_DIN912_f-0
+M3x16_DIN912_f-0
   1
 
   0
@@ -2955,7 +2955,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3x16_DIN912_f-0
+M3x12_DIN912_f-0
  70
      0
  10
@@ -2965,7 +2965,7 @@ M3x16_DIN912_f-0
  30
 0.0
   3
-M3x16_DIN912_f-0
+M3x12_DIN912_f-0
   1
 
   0
@@ -2993,7 +2993,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3x12_DIN912_f-0
+M2x8_DIN912_f-0
  70
      0
  10
@@ -3003,7 +3003,7 @@ M3x12_DIN912_f-0
  30
 0.0
   3
-M3x12_DIN912_f-0
+M2x8_DIN912_f-0
   1
 
   0
@@ -3031,7 +3031,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M2x8_DIN912_f-0
+M2x5_DIN912_f-0
  70
      0
  10
@@ -3041,7 +3041,7 @@ M2x8_DIN912_f-0
  30
 0.0
   3
-M2x8_DIN912_f-0
+M2x5_DIN912_f-0
   1
 
   0
@@ -3069,7 +3069,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M2x5_DIN912_f-0
+M4_DIN934_t-0
  70
      0
  10
@@ -3079,7 +3079,7 @@ M2x5_DIN912_f-0
  30
 0.0
   3
-M2x5_DIN912_f-0
+M4_DIN934_t-0
   1
 
   0
@@ -3107,7 +3107,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M4_DIN934_t-0
+M4_DIN934_l-0
  70
      0
  10
@@ -3117,7 +3117,7 @@ M4_DIN934_t-0
  30
 0.0
   3
-M4_DIN934_t-0
+M4_DIN934_l-0
   1
 
   0
@@ -3145,44 +3145,6 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M4_DIN934_l-0
- 70
-     0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-M4_DIN934_l-0
-  1
-
-  0
-ENDBLK
-  5
-4EF2
-330
-4EF0
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-4EF4
-330
-4EF3
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
 M5_DIN934_t-0
  70
      0
@@ -3201,7 +3163,7 @@ LINE
   5
 203
 330
-4EF3
+4EF0
 100
 AcDbEntity
   8
@@ -3231,7 +3193,7 @@ LINE
   5
 204
 330
-4EF3
+4EF0
 100
 AcDbEntity
   8
@@ -3261,7 +3223,7 @@ LINE
   5
 205
 330
-4EF3
+4EF0
 100
 AcDbEntity
   8
@@ -3291,7 +3253,7 @@ LINE
   5
 206
 330
-4EF3
+4EF0
 100
 AcDbEntity
   8
@@ -3321,7 +3283,7 @@ LINE
   5
 207
 330
-4EF3
+4EF0
 100
 AcDbEntity
   8
@@ -3351,7 +3313,7 @@ LINE
   5
 208
 330
-4EF3
+4EF0
 100
 AcDbEntity
   8
@@ -3381,7 +3343,7 @@ CIRCLE
   5
 209
 330
-4EF3
+4EF0
 100
 AcDbEntity
   8
@@ -3407,7 +3369,7 @@ ARC
   5
 20A
 330
-4EF3
+4EF0
 100
 AcDbEntity
   8
@@ -3439,7 +3401,7 @@ CIRCLE
   5
 20B
 330
-4EF3
+4EF0
 100
 AcDbEntity
   8
@@ -3460,6 +3422,44 @@ AcDbCircle
 0.0
  40
 2.0095
+  0
+ENDBLK
+  5
+4EF2
+330
+4EF0
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4EF4
+330
+4EF3
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+M5_DIN934_l-0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+M5_DIN934_l-0
+  1
+
   0
 ENDBLK
   5
@@ -3485,7 +3485,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M5_DIN934_l-0
+M2_DIN934_t-0
  70
      0
  10
@@ -3495,7 +3495,7 @@ M5_DIN934_l-0
  30
 0.0
   3
-M5_DIN934_l-0
+M2_DIN934_t-0
   1
 
   0
@@ -3523,7 +3523,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M2_DIN934_t-0
+M2_DIN934_l-0
  70
      0
  10
@@ -3533,7 +3533,7 @@ M2_DIN934_t-0
  30
 0.0
   3
-M2_DIN934_t-0
+M2_DIN934_l-0
   1
 
   0
@@ -3561,7 +3561,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M2_DIN934_l-0
+M3_DIN934_t-0
  70
      0
  10
@@ -3571,7 +3571,7 @@ M2_DIN934_l-0
  30
 0.0
   3
-M2_DIN934_l-0
+M3_DIN934_t-0
   1
 
   0
@@ -3599,7 +3599,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3_DIN934_t-0
+M3_DIN934_l-0
  70
      0
  10
@@ -3609,7 +3609,7 @@ M3_DIN934_t-0
  30
 0.0
   3
-M3_DIN934_t-0
+M3_DIN934_l-0
   1
 
   0
@@ -3637,7 +3637,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3_DIN934_l-0
+M5x14_DIN912_f-0
  70
      0
  10
@@ -3647,7 +3647,7 @@ M3_DIN934_l-0
  30
 0.0
   3
-M3_DIN934_l-0
+M5x14_DIN912_f-0
   1
 
   0
@@ -3675,7 +3675,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M5x14_DIN912_f-0
+M4x50_DIN912_f-0
  70
      0
  10
@@ -3685,7 +3685,7 @@ M5x14_DIN912_f-0
  30
 0.0
   3
-M5x14_DIN912_f-0
+M4x50_DIN912_f-0
   1
 
   0
@@ -3713,7 +3713,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M4x50_DIN912_f-0
+M4x25_DIN912_f-0
  70
      0
  10
@@ -3723,7 +3723,7 @@ M4x50_DIN912_f-0
  30
 0.0
   3
-M4x50_DIN912_f-0
+M4x25_DIN912_f-0
   1
 
   0
@@ -3751,7 +3751,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M4x25_DIN912_f-0
+M3x10_DIN912_f-0
  70
      0
  10
@@ -3761,7 +3761,7 @@ M4x25_DIN912_f-0
  30
 0.0
   3
-M4x25_DIN912_f-0
+M3x10_DIN912_f-0
   1
 
   0
@@ -3789,7 +3789,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3x10_DIN912_f-0
+M3x40_DIN912_f-0
  70
      0
  10
@@ -3799,7 +3799,7 @@ M3x10_DIN912_f-0
  30
 0.0
   3
-M3x10_DIN912_f-0
+M3x40_DIN912_f-0
   1
 
   0
@@ -3827,7 +3827,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3x40_DIN912_f-0
+M3x22_DIN912_f-0
  70
      0
  10
@@ -3837,7 +3837,7 @@ M3x40_DIN912_f-0
  30
 0.0
   3
-M3x40_DIN912_f-0
+M3x22_DIN912_f-0
   1
 
   0
@@ -3865,7 +3865,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-M3x22_DIN912_f-0
+M3x20_DIN912_f-0
  70
      0
  10
@@ -3875,7 +3875,7 @@ M3x22_DIN912_f-0
  30
 0.0
   3
-M3x22_DIN912_f-0
+M3x20_DIN912_f-0
   1
 
   0
@@ -3896,38 +3896,6 @@ ENDSEC
 SECTION
   2
 ENTITIES
-  0
-LWPOLYLINE
-  5
-261
-330
-4E94
-100
-AcDbEntity
-  8
-CUTS
- 62
-     1
-420
- 16711680
-370
-    25
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
--1171.5031045
- 20
--626.3309160000003
- 10
--1171.5031045
- 20
--826.1290089999998
   0
 SPLINE
   5
@@ -4597,38 +4565,6 @@ AcDbPolyline
  20
 -830.8082540000005
   0
-LWPOLYLINE
-  5
-27B
-330
-4E94
-100
-AcDbEntity
-  8
-CUTS
- 62
-     1
-420
- 16711680
-370
-    25
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
--36.50325750000002
- 20
--826.1575140000007
- 10
--36.50325750000002
- 20
--626.1333600000012
-  0
 SPLINE
   5
 27C
@@ -4718,38 +4654,6 @@ AcDbSpline
 -69.15392899999983
  30
 0.0
-  0
-LWPOLYLINE
-  5
-27D
-330
-4E94
-100
-AcDbEntity
-  8
-CUTS
- 62
-     1
-420
- 16711680
-370
-    25
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
--36.50325749999934
- 20
--273.828258
- 10
--36.50325749999979
- 20
--73.8041039999996
   0
 SPLINE
   5
