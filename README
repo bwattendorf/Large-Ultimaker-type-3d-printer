@@ -1,0 +1,34 @@
+Ultimaker-Electronics
+=====================
+
+Large Ultimaker box design  
+
+
+Designed by Ultimaker origional modified by Bruce Wattendorf
+
+licensed under the Attribution - Share Alike - Creative Commons license.
+
+http://creativecommons.org/licenses/by-sa/3.0/
+
+
+I have cut this and found that the Z axis needs 3 steppers which can be driven by the same stepper driver.
+
+Also the build platform needs 2 more solid rods in the front. 
+
+
+
+Changes to be done
+
+move the electronics to the back the cable gets in the way
+
+add lcd and encoder 
+
+add 1 more z axis stepper in the front
+
+make slot for the sd card in the side close to the electronics 
+
+reinforce the build platform solid rods mount and make the floating one fixed like the right side
+
+
+
+ 
